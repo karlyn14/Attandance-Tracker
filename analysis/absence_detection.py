@@ -329,5 +329,5 @@ def main():
     elif not args.dummy_test:
         parser.print_help()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
