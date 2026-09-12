@@ -1,0 +1,1001 @@
+student_id,student_name,department,year,section,subject,date,period,status
+STU0001,Sanjay Chandran,IT,4,B,Software Engineering,2026-06-17,8,Present
+STU0001,Sanjay Chandran,IT,4,B,Cloud Computing,2026-02-02,8,Late
+STU0001,Sanjay Chandran,IT,4,B,Software Engineering,2026-01-11,4,Present
+STU0001,Sanjay Chandran,IT,4,B,Cloud Computing,2026-03-16,7,Present
+STU0001,Sanjay Chandran,IT,4,B,Cloud Computing,2026-03-08,7,Present
+STU0001,Sanjay Chandran,IT,4,B,Cloud Computing,2026-03-03,8,Absent
+STU0001,Sanjay Chandran,IT,4,B,Cloud Computing,2026-02-09,8,Present
+STU0001,Sanjay Chandran,IT,4,B,Software Engineering,2026-01-31,4,On Duty
+STU0001,Sanjay Chandran,IT,4,B,Software Engineering,2026-06-27,5,Present
+STU0001,Sanjay Chandran,IT,4,B,Web Technology,2026-05-24,6,Present
+STU0001,Sanjay Chandran,IT,4,B,Cloud Computing,2026-01-27,6,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Geotechnical Engg,2026-06-05,3,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Surveying,2026-04-23,8,Late
+STU0002,Shalini Krishnan,CIVIL,1,A,Geotechnical Engg,2026-01-13,4,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Geotechnical Engg,2026-01-12,1,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Surveying,2026-01-28,6,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Geotechnical Engg,2026-03-01,8,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Surveying,2026-03-05,6,Absent
+STU0002,Shalini Krishnan,CIVIL,1,A,Structural Analysis,2026-05-14,7,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Geotechnical Engg,2026-06-08,3,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Structural Analysis,2026-01-11,5,Absent
+STU0002,Shalini Krishnan,CIVIL,1,A,Structural Analysis,2026-05-28,6,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Geotechnical Engg,2026-02-24,5,Present
+STU0002,Shalini Krishnan,CIVIL,1,A,Geotechnical Engg,2026-06-20,1,Present
+STU0003,Bala Sekar,ECE,1,B,Signals & Systems,2026-05-24,5,Present
+STU0003,Bala Sekar,ECE,1,B,Digital Electronics,2026-04-22,2,Late
+STU0003,Bala Sekar,ECE,1,B,VLSI Design,2026-03-02,6,Present
+STU0003,Bala Sekar,ECE,1,B,Signals & Systems,2026-04-29,3,Present
+STU0003,Bala Sekar,ECE,1,B,Digital Electronics,2026-06-04,6,Present
+STU0003,Bala Sekar,ECE,1,B,Signals & Systems,2026-03-17,4,Present
+STU0003,Bala Sekar,ECE,1,B,VLSI Design,2026-01-06,8,Late
+STU0003,Bala Sekar,ECE,1,B,Digital Electronics,2026-02-14,6,Present
+STU0003,Bala Sekar,ECE,1,B,Digital Electronics,2026-04-23,1,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Geotechnical Engg,2026-04-02,6,Absent
+STU0004,Divya Venkatesan,CIVIL,1,B,Structural Analysis,2026-03-17,3,Absent
+STU0004,Divya Venkatesan,CIVIL,1,B,Surveying,2026-02-13,3,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Geotechnical Engg,2026-03-01,5,Late
+STU0004,Divya Venkatesan,CIVIL,1,B,Surveying,2026-04-01,7,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Geotechnical Engg,2026-01-31,7,Absent
+STU0004,Divya Venkatesan,CIVIL,1,B,Structural Analysis,2026-01-28,7,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Geotechnical Engg,2026-04-12,5,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Geotechnical Engg,2026-01-29,8,Late
+STU0004,Divya Venkatesan,CIVIL,1,B,Structural Analysis,2026-04-06,2,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Structural Analysis,2026-04-03,8,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Surveying,2026-06-08,6,Present
+STU0004,Divya Venkatesan,CIVIL,1,B,Geotechnical Engg,2026-03-13,8,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Structural Analysis,2026-01-16,5,Absent
+STU0005,Anitha Iyer,CIVIL,2,C,Geotechnical Engg,2026-05-02,5,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Surveying,2026-05-22,4,Absent
+STU0005,Anitha Iyer,CIVIL,2,C,Structural Analysis,2026-02-05,4,Late
+STU0005,Anitha Iyer,CIVIL,2,C,Geotechnical Engg,2026-04-11,6,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Structural Analysis,2026-01-25,1,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Unknown,2026-05-26,6,Late
+STU0005,Anitha Iyer,CIVIL,2,C,Geotechnical Engg,2026-03-21,2,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Geotechnical Engg,2026-06-14,3,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Structural Analysis,2026-06-12,7,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Structural Analysis,2026-04-07,4,Present
+STU0005,Anitha Iyer,CIVIL,2,C,Structural Analysis,2026-06-01,8,Absent
+STU0006,Anu Pillai,ECE,2,B,VLSI Design,2026-02-23,-1,Absent
+STU0006,Anu Pillai,ECE,2,B,VLSI Design,2026-01-22,3,Present
+STU0006,Anu Pillai,ECE,2,B,VLSI Design,2026-01-16,4,Present
+STU0006,Anu Pillai,ECE,2,B,VLSI Design,2026-06-23,6,Present
+STU0006,Anu Pillai,ECE,2,B,VLSI Design,2026-03-04,5,Absent
+STU0006,Anu Pillai,ECE,2,B,Unknown,2026-03-20,5,Present
+STU0006,Anu Pillai,ECE,2,B,VLSI Design,2026-01-25,3,Absent
+STU0006,Anu Pillai,ECE,2,B,VLSI Design,2026-03-05,4,Present
+STU0006,Anu Pillai,ECE,2,B,Signals & Systems,2026-01-30,2,Absent
+STU0007,Naveen Nair,MECH,4,C,Thermodynamics,2026-04-12,8,Present
+STU0007,Naveen Nair,MECH,4,C,Thermodynamics,2026-03-17,8,Present
+STU0007,Naveen Nair,MECH,4,C,Fluid Mechanics,2026-05-01,7,Absent
+STU0007,Naveen Nair,MECH,4,C,Thermodynamics,2026-06-16,3,Present
+STU0007,Naveen Nair,MECH,4,C,Machine Design,2026-04-08,3,Present
+STU0007,Naveen Nair,MECH,4,C,Fluid Mechanics,2026-02-15,1,Present
+STU0007,Naveen Nair,MECH,4,C,Machine Design,2026-04-09,7,Present
+STU0008,Swathi Rao,CIVIL,2,C,Geotechnical Engg,2026-04-05,1,Present
+STU0008,Swathi Rao,CIVIL,2,C,Surveying,2026-02-27,8,Present
+STU0008,Swathi Rao,CIVIL,2,C,Structural Analysis,2026-06-25,6,Absent
+STU0008,Swathi Rao,CIVIL,2,C,Structural Analysis,2026-03-14,1,Present
+STU0009,Ganesh Balan,EEE,1,C,Electrical Machines,2026-06-28,4,Absent
+STU0009,Ganesh Balan,EEE,1,C,Control Systems,2026-06-19,3,Absent
+STU0009,Ganesh Balan,EEE,1,C,Control Systems,2026-01-23,6,Present
+STU0009,Ganesh Balan,EEE,1,C,Power Systems,2026-06-09,1,Present
+STU0009,Ganesh Balan,EEE,1,C,Power Systems,2026-06-16,-1,Present
+STU0010,Divya Kumar,MECH,2,A,Thermodynamics,2026-02-17,4,Unknown
+STU0010,Divya Kumar,MECH,2,A,Thermodynamics,2026-05-21,2,Present
+STU0010,Divya Kumar,MECH,2,A,Thermodynamics,2026-03-08,7,On Duty
+STU0010,Divya Kumar,MECH,2,A,Thermodynamics,2026-02-15,1,Late
+STU0010,Divya Kumar,MECH,2,A,Machine Design,2026-05-03,1,Present
+STU0010,Divya Kumar,MECH,2,A,Machine Design,2026-04-12,3,Present
+STU0010,Divya Kumar,MECH,2,A,Thermodynamics,2026-03-15,6,Late
+STU0010,Divya Kumar,MECH,2,A,Fluid Mechanics,2026-06-17,2,Present
+STU0010,Divya Kumar,MECH,2,A,Machine Design,2026-06-30,3,Absent
+STU0010,Divya Kumar,MECH,2,A,Thermodynamics,2026-05-27,4,Present
+STU0011,Deepa Mani,CSE,2,C,Data Structures,2026-03-02,5,Present
+STU0011,Deepa Mani,CSE,2,C,DBMS,2026-06-29,1,On Duty
+STU0011,Deepa Mani,CSE,2,C,Computer Networks,2026-03-29,3,Present
+STU0011,Deepa Mani,CSE,2,C,Computer Networks,2026-01-19,7,Present
+STU0011,Deepa Mani,CSE,2,C,Data Structures,2026-03-04,7,Present
+STU0011,Deepa Mani,CSE,2,C,DBMS,2026-01-13,2,Absent
+STU0011,Deepa Mani,CSE,2,C,Data Structures,2026-03-26,3,Present
+STU0011,Deepa Mani,CSE,2,C,Data Structures,2026-04-17,8,Absent
+STU0011,Deepa Mani,CSE,2,C,DBMS,2026-03-14,2,Unknown
+STU0011,Deepa Mani,CSE,2,C,Data Structures,2026-01-21,2,Absent
+STU0011,Deepa Mani,CSE,2,C,DBMS,2026-02-28,2,Absent
+STU0012,Dinesh Rao,IT,2,B,Web Technology,2026-05-30,4,Present
+STU0012,Dinesh Rao,IT,2,B,Software Engineering,2026-03-26,-1,Present
+STU0012,Dinesh Rao,IT,2,B,Software Engineering,2026-02-28,3,Present
+STU0012,Dinesh Rao,IT,2,B,Software Engineering,2026-06-21,7,Present
+STU0012,Dinesh Rao,IT,2,B,Web Technology,2026-05-12,7,Present
+STU0012,Dinesh Rao,IT,2,B,Web Technology,2026-04-16,8,Present
+STU0012,Dinesh Rao,IT,2,B,Web Technology,2026-06-18,3,Late
+STU0012,Dinesh Rao,IT,2,B,Web Technology,2026-05-02,7,Present
+STU0012,Dinesh Rao,IT,2,B,Cloud Computing,2026-02-10,8,Present
+STU0013,Mohan Iyer,ECE,1,C,Signals & Systems,2026-03-13,8,Absent
+STU0013,Mohan Iyer,ECE,1,C,Signals & Systems,2026-02-09,2,Present
+STU0013,Mohan Iyer,ECE,1,C,VLSI Design,2026-03-09,2,Present
+STU0013,Mohan Iyer,ECE,1,C,Digital Electronics,2026-05-28,1,Present
+STU0013,Mohan Iyer,ECE,1,C,Digital Electronics,2026-05-22,2,Late
+STU0013,Mohan Iyer,ECE,1,C,Signals & Systems,2026-03-13,8,Present
+STU0013,Mohan Iyer,ECE,1,C,VLSI Design,2026-06-03,3,Present
+STU0013,Mohan Iyer,ECE,1,C,VLSI Design,2026-04-24,1,Unknown
+STU0013,Mohan Iyer,ECE,1,C,VLSI Design,2026-06-03,2,Present
+STU0013,Mohan Iyer,ECE,1,C,VLSI Design,2026-04-17,6,Present
+STU0013,Mohan Iyer,ECE,1,C,VLSI Design,2026-04-07,6,Present
+STU0013,Mohan Iyer,ECE,1,C,Signals & Systems,2026-03-02,1,Present
+STU0013,Mohan Iyer,ECE,1,C,Signals & Systems,2026-02-09,6,Present
+STU0014,Karthik Sundaram,CSE,4,C,Data Structures,2026-05-15,6,Present
+STU0014,Karthik Sundaram,CSE,4,C,DBMS,2026-05-11,3,Unknown
+STU0014,Karthik Sundaram,CSE,4,C,DBMS,2026-01-28,2,Present
+STU0014,Karthik Sundaram,CSE,4,C,Computer Networks,2026-01-17,1,Present
+STU0014,Karthik Sundaram,CSE,4,C,Unknown,2026-02-02,2,Absent
+STU0014,Karthik Sundaram,CSE,4,C,Data Structures,2026-02-13,3,Present
+STU0014,Karthik Sundaram,CSE,4,C,Operating Systems,2026-06-14,4,Late
+STU0015,Ganesh Chandran,IT,2,B,Web Technology,2026-02-14,8,Present
+STU0015,Ganesh Chandran,IT,2,B,Web Technology,2026-06-28,2,Late
+STU0015,Ganesh Chandran,IT,2,B,Software Engineering,2026-04-23,7,Present
+STU0015,Ganesh Chandran,IT,2,B,Web Technology,2026-06-06,8,Present
+STU0015,Ganesh Chandran,IT,2,B,Web Technology,2026-01-21,8,Present
+STU0015,Ganesh Chandran,IT,2,B,Web Technology,2026-04-13,1,Present
+STU0015,Ganesh Chandran,IT,2,B,Cloud Computing,2026-04-12,2,Absent
+STU0015,Ganesh Chandran,IT,2,B,Software Engineering,2026-06-06,5,Present
+STU0016,Sanjay Balan,CSE,3,A,Computer Networks,2026-05-04,4,Present
+STU0016,Sanjay Balan,CSE,3,A,Operating Systems,2026-05-20,7,Present
+STU0016,Sanjay Balan,CSE,3,A,DBMS,2026-03-10,6,Absent
+STU0016,Sanjay Balan,CSE,3,A,Data Structures,2026-05-26,1,Present
+STU0017,Vignesh Mani,MECH,4,A,Machine Design,2026-01-07,1,Present
+STU0017,Vignesh Mani,MECH,4,A,Thermodynamics,2026-06-28,7,Absent
+STU0017,Vignesh Mani,MECH,4,A,Machine Design,2026-02-03,2,Unknown
+STU0017,Vignesh Mani,MECH,4,A,Machine Design,2026-06-28,1,Present
+STU0017,Vignesh Mani,MECH,4,A,Machine Design,2026-05-22,5,Present
+STU0017,Vignesh Mani,MECH,4,A,Fluid Mechanics,2026-03-14,2,Present
+STU0018,Prasanth Balan,MECH,3,B,Machine Design,2026-06-18,2,Present
+STU0018,Prasanth Balan,MECH,3,B,Thermodynamics,2026-04-02,7,Present
+STU0018,Prasanth Balan,MECH,3,B,Fluid Mechanics,2026-02-02,6,Absent
+STU0018,Prasanth Balan,MECH,3,B,Fluid Mechanics,2026-03-21,6,Present
+STU0018,Prasanth Balan,MECH,3,B,Thermodynamics,2026-04-26,3,Late
+STU0019,Harish Nair,CSE,1,A,Operating Systems,2026-02-14,3,Present
+STU0019,Harish Nair,CSE,1,A,Operating Systems,2026-05-01,5,Present
+STU0019,Harish Nair,CSE,1,A,DBMS,2026-01-05,4,Present
+STU0019,Harish Nair,CSE,1,A,Operating Systems,2026-03-13,5,Present
+STU0019,Harish Nair,CSE,1,A,Computer Networks,2026-05-13,1,Present
+STU0019,Harish Nair,CSE,1,A,Data Structures,2026-02-19,4,Present
+STU0019,Harish Nair,CSE,1,A,Data Structures,2026-05-14,4,Absent
+STU0019,Harish Nair,CSE,1,A,Data Structures,2026-02-01,7,Present
+STU0019,Harish Nair,CSE,1,A,Computer Networks,2026-06-14,7,Present
+STU0019,Harish Nair,CSE,1,A,Operating Systems,2026-03-22,1,Present
+STU0019,Harish Nair,CSE,1,A,Computer Networks,2026-06-17,5,Present
+STU0020,Swathi Nair,MECH,3,C,Unknown,2026-05-14,1,Present
+STU0020,Swathi Nair,MECH,3,C,Unknown,2026-06-09,8,Late
+STU0020,Swathi Nair,MECH,3,C,Fluid Mechanics,2026-02-24,3,Present
+STU0020,Swathi Nair,MECH,3,C,Thermodynamics,2026-02-13,6,Absent
+STU0020,Swathi Nair,MECH,3,C,Fluid Mechanics,2026-04-10,1,Present
+STU0020,Swathi Nair,MECH,3,C,Thermodynamics,2026-02-15,3,Late
+STU0021,Rahul Rao,CIVIL,3,A,Surveying,2026-05-23,6,Late
+STU0021,Rahul Rao,CIVIL,3,A,Geotechnical Engg,2026-05-20,2,Absent
+STU0021,Rahul Rao,CIVIL,3,A,Surveying,2026-01-05,1,Unknown
+STU0021,Rahul Rao,CIVIL,3,A,Structural Analysis,2026-06-07,1,Unknown
+STU0021,Rahul Rao,CIVIL,3,A,Surveying,2026-03-28,8,Absent
+STU0021,Rahul Rao,CIVIL,3,A,Geotechnical Engg,2026-05-10,7,Present
+STU0021,Rahul Rao,CIVIL,3,A,Surveying,2026-01-09,7,Present
+STU0021,Rahul Rao,CIVIL,3,A,Structural Analysis,2026-02-02,2,Present
+STU0021,Rahul Rao,CIVIL,3,A,Geotechnical Engg,2026-04-07,5,Present
+STU0022,Nithya Iyer,CSE,3,A,Data Structures,2026-03-24,6,Late
+STU0022,Nithya Iyer,CSE,3,A,Operating Systems,2026-03-07,1,Present
+STU0022,Nithya Iyer,CSE,3,A,Computer Networks,2026-01-19,2,Present
+STU0022,Nithya Iyer,CSE,3,A,Operating Systems,2026-03-07,7,Present
+STU0022,Nithya Iyer,CSE,3,A,DBMS,2026-05-30,3,Present
+STU0022,Nithya Iyer,CSE,3,A,Operating Systems,2026-01-25,7,Present
+STU0022,Nithya Iyer,CSE,3,A,DBMS,2026-01-26,6,Present
+STU0022,Nithya Iyer,CSE,3,A,DBMS,2026-05-09,-1,Present
+STU0022,Nithya Iyer,CSE,3,A,Unknown,2026-01-22,6,Present
+STU0022,Nithya Iyer,CSE,3,A,DBMS,2026-05-21,6,Present
+STU0022,Nithya Iyer,CSE,3,A,DBMS,2026-02-06,3,Present
+STU0022,Nithya Iyer,CSE,3,A,Computer Networks,2026-02-06,4,Present
+STU0023,Suresh Iyer,ECE,4,B,Digital Electronics,2026-06-22,6,Absent
+STU0023,Suresh Iyer,ECE,4,B,Signals & Systems,2026-05-06,8,Unknown
+STU0023,Suresh Iyer,ECE,4,B,VLSI Design,2026-05-25,4,Present
+STU0023,Suresh Iyer,ECE,4,B,VLSI Design,2026-02-16,6,Unknown
+STU0023,Suresh Iyer,ECE,4,B,Signals & Systems,2026-03-13,2,Absent
+STU0023,Suresh Iyer,ECE,4,B,Signals & Systems,2026-05-20,4,Present
+STU0023,Suresh Iyer,ECE,4,B,Digital Electronics,2026-06-09,5,Present
+STU0023,Suresh Iyer,ECE,4,B,Signals & Systems,2026-04-23,7,Present
+STU0023,Suresh Iyer,ECE,4,B,Signals & Systems,2026-02-28,3,Absent
+STU0023,Suresh Iyer,ECE,4,B,Signals & Systems,2026-05-23,7,Present
+STU0024,Pooja Mani,EEE,2,B,Control Systems,2026-06-30,6,Present
+STU0024,Pooja Mani,EEE,2,B,Power Systems,2026-02-25,1,Absent
+STU0024,Pooja Mani,EEE,2,B,Power Systems,2026-03-25,2,Present
+STU0024,Pooja Mani,EEE,2,B,Electrical Machines,2026-04-17,7,Present
+STU0024,Pooja Mani,EEE,2,B,Power Systems,2026-06-25,6,Present
+STU0024,Pooja Mani,EEE,2,B,Control Systems,2026-06-20,4,Present
+STU0024,Pooja Mani,EEE,2,B,Power Systems,2026-04-10,4,Present
+STU0025,Sanjay Pillai,EEE,3,B,Electrical Machines,2026-04-27,3,Late
+STU0025,Sanjay Pillai,EEE,3,B,Control Systems,2026-05-17,4,Present
+STU0025,Sanjay Pillai,EEE,3,B,Power Systems,2026-04-30,5,Present
+STU0025,Sanjay Pillai,EEE,3,B,Control Systems,2026-02-04,8,Late
+STU0025,Sanjay Pillai,EEE,3,B,Electrical Machines,2026-03-09,6,Present
+STU0026,Prasanth Sundaram,CIVIL,3,B,Surveying,2026-03-03,8,On Duty
+STU0026,Prasanth Sundaram,CIVIL,3,B,Structural Analysis,2026-01-21,7,Present
+STU0026,Prasanth Sundaram,CIVIL,3,B,Surveying,2026-04-01,3,Absent
+STU0026,Prasanth Sundaram,CIVIL,3,B,Structural Analysis,2026-01-10,4,Present
+STU0026,Prasanth Sundaram,CIVIL,3,B,Structural Analysis,2026-06-04,1,Present
+STU0026,Prasanth Sundaram,CIVIL,3,B,Surveying,2026-05-26,6,Present
+STU0027,Lakshmi Kumar,EEE,2,C,Unknown,2026-03-04,2,Present
+STU0027,Lakshmi Kumar,EEE,2,C,Electrical Machines,2026-06-04,6,Present
+STU0027,Lakshmi Kumar,EEE,2,C,Electrical Machines,2026-03-02,3,Present
+STU0027,Lakshmi Kumar,EEE,2,C,Control Systems,2026-01-06,8,Absent
+STU0027,Lakshmi Kumar,EEE,2,C,Electrical Machines,2026-01-23,4,Late
+STU0027,Lakshmi Kumar,EEE,2,C,Power Systems,2026-06-15,5,Absent
+STU0027,Lakshmi Kumar,EEE,2,C,Power Systems,2026-01-20,8,Absent
+STU0027,Lakshmi Kumar,EEE,2,C,Control Systems,2026-03-04,8,Present
+STU0027,Lakshmi Kumar,EEE,2,C,Power Systems,2026-01-22,7,Late
+STU0027,Lakshmi Kumar,EEE,2,C,Power Systems,2026-01-13,8,Present
+STU0028,Arjun Mani,CSE,4,A,Data Structures,2026-03-30,7,Present
+STU0028,Arjun Mani,CSE,4,A,Operating Systems,2026-01-23,1,Present
+STU0028,Arjun Mani,CSE,4,A,Data Structures,2026-05-16,-1,Present
+STU0028,Arjun Mani,CSE,4,A,DBMS,2026-03-06,6,Present
+STU0028,Arjun Mani,CSE,4,A,DBMS,2026-03-17,4,Present
+STU0028,Arjun Mani,CSE,4,A,Operating Systems,2026-06-25,7,Present
+STU0028,Arjun Mani,CSE,4,A,Computer Networks,2026-05-09,8,Unknown
+STU0028,Arjun Mani,CSE,4,A,Computer Networks,2026-02-28,5,Present
+STU0029,Vikram Kumar,CSE,2,B,DBMS,2026-05-23,5,Present
+STU0029,Vikram Kumar,CSE,2,B,DBMS,2026-02-07,1,Late
+STU0029,Vikram Kumar,CSE,2,B,DBMS,2026-05-31,8,Present
+STU0029,Vikram Kumar,CSE,2,B,Operating Systems,2026-06-01,8,Present
+STU0029,Vikram Kumar,CSE,2,B,DBMS,2026-05-06,4,Unknown
+STU0029,Vikram Kumar,CSE,2,B,DBMS,2026-03-08,1,Late
+STU0029,Vikram Kumar,CSE,2,B,Data Structures,2026-05-06,2,Late
+STU0029,Vikram Kumar,CSE,2,B,Computer Networks,2026-04-19,7,Present
+STU0030,Karthik Rao,IT,3,A,Software Engineering,2026-02-22,6,Present
+STU0030,Karthik Rao,IT,3,A,Web Technology,2026-01-29,3,Absent
+STU0030,Karthik Rao,IT,3,A,Web Technology,2026-01-29,4,Absent
+STU0030,Karthik Rao,IT,3,A,Cloud Computing,2026-06-22,8,Present
+STU0030,Karthik Rao,IT,3,A,Web Technology,2026-04-25,5,Present
+STU0030,Karthik Rao,IT,3,A,Software Engineering,2026-04-05,-1,Unknown
+STU0030,Karthik Rao,IT,3,A,Web Technology,2026-04-23,3,Unknown
+STU0030,Karthik Rao,IT,3,A,Web Technology,2026-04-20,6,Present
+STU0030,Karthik Rao,IT,3,A,Software Engineering,2026-05-04,7,Absent
+STU0030,Karthik Rao,IT,3,A,Software Engineering,2026-01-18,3,Present
+STU0030,Karthik Rao,IT,3,A,Web Technology,2026-06-26,6,Present
+STU0031,Shalini Nair,IT,4,B,Web Technology,2026-06-21,4,Present
+STU0031,Shalini Nair,IT,4,B,Software Engineering,2026-06-19,3,Absent
+STU0031,Shalini Nair,IT,4,B,Cloud Computing,2026-01-30,8,Present
+STU0031,Shalini Nair,IT,4,B,Cloud Computing,2026-01-20,5,Absent
+STU0031,Shalini Nair,IT,4,B,Software Engineering,2026-04-18,1,Late
+STU0031,Shalini Nair,IT,4,B,Web Technology,2026-04-01,2,Absent
+STU0031,Shalini Nair,IT,4,B,Cloud Computing,2026-02-01,8,Present
+STU0031,Shalini Nair,IT,4,B,Web Technology,2026-03-09,4,Absent
+STU0032,Prasanth Reddy,IT,2,A,Software Engineering,2026-02-23,3,On Duty
+STU0032,Prasanth Reddy,IT,2,A,Web Technology,2026-02-22,3,Unknown
+STU0032,Prasanth Reddy,IT,2,A,Web Technology,2026-05-22,7,Absent
+STU0032,Prasanth Reddy,IT,2,A,Web Technology,2026-04-29,1,Present
+STU0032,Prasanth Reddy,IT,2,A,Web Technology,2026-02-09,8,Late
+STU0032,Prasanth Reddy,IT,2,A,Cloud Computing,2026-04-23,3,Present
+STU0032,Prasanth Reddy,IT,2,A,Software Engineering,2026-02-20,1,Present
+STU0032,Prasanth Reddy,IT,2,A,Cloud Computing,2026-03-17,8,Present
+STU0032,Prasanth Reddy,IT,2,A,Cloud Computing,2026-05-03,6,Present
+STU0032,Prasanth Reddy,IT,2,A,Cloud Computing,2026-03-09,7,Present
+STU0032,Prasanth Reddy,IT,2,A,Cloud Computing,2026-01-24,6,Unknown
+STU0032,Prasanth Reddy,IT,2,A,Software Engineering,2026-04-28,8,Present
+STU0032,Prasanth Reddy,IT,2,A,Cloud Computing,2026-05-25,8,Unknown
+STU0033,Meena Venkatesan,MECH,4,A,Machine Design,2026-01-30,1,Present
+STU0033,Meena Venkatesan,MECH,4,A,Thermodynamics,2026-01-17,5,Present
+STU0033,Meena Venkatesan,MECH,4,A,Fluid Mechanics,2026-06-20,1,Present
+STU0033,Meena Venkatesan,MECH,4,A,Fluid Mechanics,2026-05-23,3,On Duty
+STU0033,Meena Venkatesan,MECH,4,A,Thermodynamics,2026-01-08,3,Present
+STU0033,Meena Venkatesan,MECH,4,A,Fluid Mechanics,2026-01-28,6,Present
+STU0033,Meena Venkatesan,MECH,4,A,Thermodynamics,2026-03-06,7,Present
+STU0033,Meena Venkatesan,MECH,4,A,Unknown,2026-02-16,1,Unknown
+STU0033,Meena Venkatesan,MECH,4,A,Fluid Mechanics,2026-04-19,6,Present
+STU0034,Priya Sundaram,MECH,2,C,Fluid Mechanics,2026-05-09,1,Absent
+STU0034,Priya Sundaram,MECH,2,C,Machine Design,2026-05-08,4,Absent
+STU0034,Priya Sundaram,MECH,2,C,Thermodynamics,2026-02-28,7,Late
+STU0034,Priya Sundaram,MECH,2,C,Fluid Mechanics,2026-04-17,6,Present
+STU0034,Priya Sundaram,MECH,2,C,Machine Design,2026-01-20,2,Present
+STU0035,Nithya Reddy,IT,3,A,Software Engineering,2026-02-16,1,Present
+STU0035,Nithya Reddy,IT,3,A,Software Engineering,2026-04-12,4,Present
+STU0035,Nithya Reddy,IT,3,A,Cloud Computing,2026-01-05,3,Present
+STU0035,Nithya Reddy,IT,3,A,Web Technology,2026-04-14,5,Present
+STU0035,Nithya Reddy,IT,3,A,Cloud Computing,2026-03-13,1,Present
+STU0035,Nithya Reddy,IT,3,A,Web Technology,2026-05-01,2,Present
+STU0035,Nithya Reddy,IT,3,A,Cloud Computing,2026-03-19,5,Present
+STU0035,Nithya Reddy,IT,3,A,Cloud Computing,2026-04-23,6,Present
+STU0035,Nithya Reddy,IT,3,A,Web Technology,2026-05-27,1,On Duty
+STU0035,Nithya Reddy,IT,3,A,Software Engineering,2026-06-23,8,Present
+STU0036,Anu Pillai,EEE,1,A,Control Systems,2026-05-09,8,Present
+STU0036,Anu Pillai,EEE,1,A,Control Systems,2026-02-13,3,Present
+STU0036,Anu Pillai,EEE,1,A,Power Systems,2026-02-22,2,Absent
+STU0036,Anu Pillai,EEE,1,A,Power Systems,2026-03-21,4,Absent
+STU0036,Anu Pillai,EEE,1,A,Power Systems,2026-03-01,7,Present
+STU0036,Anu Pillai,EEE,1,A,Power Systems,2026-01-19,1,Present
+STU0037,Priya Mani,CIVIL,4,B,Surveying,2026-06-02,4,Absent
+STU0037,Priya Mani,CIVIL,4,B,Surveying,2026-05-23,7,Present
+STU0037,Priya Mani,CIVIL,4,B,Geotechnical Engg,2026-01-20,7,Present
+STU0037,Priya Mani,CIVIL,4,B,Structural Analysis,2026-03-26,8,Present
+STU0037,Priya Mani,CIVIL,4,B,Geotechnical Engg,2026-01-19,8,Present
+STU0038,Harish Reddy,EEE,2,A,Power Systems,2026-01-17,4,Absent
+STU0038,Harish Reddy,EEE,2,A,Control Systems,2026-06-03,5,Present
+STU0038,Harish Reddy,EEE,2,A,Control Systems,2026-05-07,7,Present
+STU0038,Harish Reddy,EEE,2,A,Electrical Machines,2026-05-13,8,Present
+STU0038,Harish Reddy,EEE,2,A,Power Systems,2026-05-20,8,Present
+STU0038,Harish Reddy,EEE,2,A,Electrical Machines,2026-02-14,4,Present
+STU0039,Harish Kumar,EEE,1,C,Control Systems,2026-01-19,5,Present
+STU0039,Harish Kumar,EEE,1,C,Electrical Machines,2026-05-15,2,Present
+STU0039,Harish Kumar,EEE,1,C,Power Systems,2026-01-25,1,Present
+STU0039,Harish Kumar,EEE,1,C,Control Systems,2026-02-21,8,Present
+STU0040,Dinesh Kumar,EEE,4,A,Electrical Machines,2026-01-22,2,Present
+STU0040,Dinesh Kumar,EEE,4,A,Electrical Machines,2026-06-06,3,Present
+STU0040,Dinesh Kumar,EEE,4,A,Control Systems,2026-01-22,2,Present
+STU0040,Dinesh Kumar,EEE,4,A,Electrical Machines,2026-06-26,3,Present
+STU0040,Dinesh Kumar,EEE,4,A,Control Systems,2026-03-06,4,Present
+STU0040,Dinesh Kumar,EEE,4,A,Electrical Machines,2026-04-18,1,Present
+STU0040,Dinesh Kumar,EEE,4,A,Electrical Machines,2026-02-04,5,Present
+STU0040,Dinesh Kumar,EEE,4,A,Power Systems,2026-05-30,8,Present
+STU0040,Dinesh Kumar,EEE,4,A,Control Systems,2026-03-09,7,Present
+STU0040,Dinesh Kumar,EEE,4,A,Control Systems,2026-06-02,2,Unknown
+STU0040,Dinesh Kumar,EEE,4,A,Control Systems,2026-06-06,6,Present
+STU0041,Anu Raj,EEE,3,C,Electrical Machines,2026-01-15,4,Present
+STU0041,Anu Raj,EEE,3,C,Power Systems,2026-06-12,7,Present
+STU0041,Anu Raj,EEE,3,C,Electrical Machines,2026-01-25,7,Present
+STU0041,Anu Raj,EEE,3,C,Control Systems,2026-04-22,4,Unknown
+STU0041,Anu Raj,EEE,3,C,Electrical Machines,2026-06-22,8,Present
+STU0041,Anu Raj,EEE,3,C,Electrical Machines,2026-06-03,4,Present
+STU0041,Anu Raj,EEE,3,C,Power Systems,2026-05-29,1,Present
+STU0041,Anu Raj,EEE,3,C,Power Systems,2026-05-18,3,Absent
+STU0041,Anu Raj,EEE,3,C,Electrical Machines,2026-03-26,-1,Absent
+STU0041,Anu Raj,EEE,3,C,Control Systems,2026-03-12,5,Present
+STU0041,Anu Raj,EEE,3,C,Control Systems,2026-02-26,1,Late
+STU0041,Anu Raj,EEE,3,C,Power Systems,2026-06-25,4,Present
+STU0041,Anu Raj,EEE,3,C,Electrical Machines,2026-03-26,4,Present
+STU0041,Anu Raj,EEE,3,C,Power Systems,2026-03-07,4,Present
+STU0041,Anu Raj,EEE,3,C,Control Systems,2026-03-13,6,Present
+STU0042,Karthik Nair,EEE,2,C,Power Systems,2026-04-16,5,On Duty
+STU0042,Karthik Nair,EEE,2,C,Electrical Machines,2026-02-07,4,Present
+STU0042,Karthik Nair,EEE,2,C,Control Systems,2026-06-25,6,On Duty
+STU0042,Karthik Nair,EEE,2,C,Control Systems,2026-06-19,1,Present
+STU0042,Karthik Nair,EEE,2,C,Power Systems,2026-03-22,7,Present
+STU0042,Karthik Nair,EEE,2,C,Electrical Machines,2026-05-02,4,Present
+STU0042,Karthik Nair,EEE,2,C,Electrical Machines,2026-03-26,3,Unknown
+STU0042,Karthik Nair,EEE,2,C,Electrical Machines,2026-01-23,2,Present
+STU0043,Rahul Kumar,CIVIL,3,A,Surveying,2026-01-07,2,Late
+STU0043,Rahul Kumar,CIVIL,3,A,Surveying,2026-05-02,4,Present
+STU0043,Rahul Kumar,CIVIL,3,A,Surveying,2026-06-13,6,Present
+STU0043,Rahul Kumar,CIVIL,3,A,Surveying,2026-05-29,6,Present
+STU0043,Rahul Kumar,CIVIL,3,A,Surveying,2026-01-30,6,Present
+STU0043,Rahul Kumar,CIVIL,3,A,Surveying,2026-01-23,3,Late
+STU0043,Rahul Kumar,CIVIL,3,A,Geotechnical Engg,2026-05-22,-1,Present
+STU0043,Rahul Kumar,CIVIL,3,A,Surveying,2026-02-28,8,Present
+STU0043,Rahul Kumar,CIVIL,3,A,Geotechnical Engg,2026-05-14,5,Present
+STU0044,Shalini Iyer,CIVIL,4,B,Surveying,2026-03-13,8,Absent
+STU0044,Shalini Iyer,CIVIL,4,B,Structural Analysis,2026-02-07,7,Present
+STU0044,Shalini Iyer,CIVIL,4,B,Surveying,2026-04-04,1,Present
+STU0044,Shalini Iyer,CIVIL,4,B,Surveying,2026-01-22,5,Present
+STU0044,Shalini Iyer,CIVIL,4,B,Structural Analysis,2026-03-08,-1,Present
+STU0044,Shalini Iyer,CIVIL,4,B,Surveying,2026-04-09,8,Present
+STU0044,Shalini Iyer,CIVIL,4,B,Surveying,2026-03-18,8,Present
+STU0045,Harish Venkatesan,MECH,4,C,Thermodynamics,2026-02-14,2,Present
+STU0045,Harish Venkatesan,MECH,4,C,Machine Design,2026-04-27,3,Present
+STU0045,Harish Venkatesan,MECH,4,C,Machine Design,2026-05-24,-1,Absent
+STU0045,Harish Venkatesan,MECH,4,C,Thermodynamics,2026-03-23,2,Present
+STU0045,Harish Venkatesan,MECH,4,C,Machine Design,2026-06-10,6,Present
+STU0045,Harish Venkatesan,MECH,4,C,Thermodynamics,2026-06-21,5,Present
+STU0045,Harish Venkatesan,MECH,4,C,Thermodynamics,2026-05-20,2,Unknown
+STU0045,Harish Venkatesan,MECH,4,C,Machine Design,2026-01-07,6,Present
+STU0046,Arjun Mani,CSE,2,A,Data Structures,2026-06-24,3,Present
+STU0046,Arjun Mani,CSE,2,A,DBMS,2026-05-26,4,Absent
+STU0046,Arjun Mani,CSE,2,A,Computer Networks,2026-03-22,7,Present
+STU0046,Arjun Mani,CSE,2,A,Data Structures,2026-06-23,4,Present
+STU0046,Arjun Mani,CSE,2,A,Computer Networks,2026-01-31,1,Present
+STU0046,Arjun Mani,CSE,2,A,DBMS,2026-02-08,8,Present
+STU0046,Arjun Mani,CSE,2,A,Operating Systems,2026-03-13,4,Present
+STU0047,Harish Venkatesan,MECH,4,B,Fluid Mechanics,2026-02-03,5,Present
+STU0047,Harish Venkatesan,MECH,4,B,Thermodynamics,2026-02-01,2,Present
+STU0047,Harish Venkatesan,MECH,4,B,Thermodynamics,2026-05-26,7,Present
+STU0047,Harish Venkatesan,MECH,4,B,Thermodynamics,2026-02-13,8,Present
+STU0047,Harish Venkatesan,MECH,4,B,Thermodynamics,2026-03-15,6,Present
+STU0047,Harish Venkatesan,MECH,4,B,Machine Design,2026-03-18,7,Present
+STU0048,Shalini Pillai,CSE,4,C,Operating Systems,2026-06-08,6,On Duty
+STU0048,Shalini Pillai,CSE,4,C,Computer Networks,2026-02-27,5,Present
+STU0048,Shalini Pillai,CSE,4,C,Operating Systems,2026-04-02,7,Present
+STU0048,Shalini Pillai,CSE,4,C,Operating Systems,2026-02-26,3,On Duty
+STU0048,Shalini Pillai,CSE,4,C,Operating Systems,2026-06-29,1,Present
+STU0048,Shalini Pillai,CSE,4,C,Computer Networks,2026-06-16,2,Present
+STU0048,Shalini Pillai,CSE,4,C,Data Structures,2026-03-13,5,On Duty
+STU0049,Aravind Balan,IT,3,B,Software Engineering,2026-05-14,4,Absent
+STU0049,Aravind Balan,IT,3,B,Software Engineering,2026-05-10,4,Present
+STU0049,Aravind Balan,IT,3,B,Web Technology,2026-03-10,7,Present
+STU0049,Aravind Balan,IT,3,B,Software Engineering,2026-01-18,7,Absent
+STU0049,Aravind Balan,IT,3,B,Software Engineering,2026-01-28,1,Present
+STU0049,Aravind Balan,IT,3,B,Software Engineering,2026-06-16,5,Present
+STU0049,Aravind Balan,IT,3,B,Cloud Computing,2026-04-23,-1,Present
+STU0050,Prasanth Nair,CIVIL,1,C,Surveying,2026-03-16,4,Present
+STU0050,Prasanth Nair,CIVIL,1,C,Surveying,2026-01-16,6,Absent
+STU0050,Prasanth Nair,CIVIL,1,C,Surveying,2026-01-05,3,Present
+STU0050,Prasanth Nair,CIVIL,1,C,Structural Analysis,2026-03-31,6,On Duty
+STU0051,Ganesh Sundaram,ECE,1,C,Digital Electronics,2026-02-07,1,Unknown
+STU0051,Ganesh Sundaram,ECE,1,C,Signals & Systems,2026-06-17,2,Present
+STU0051,Ganesh Sundaram,ECE,1,C,Signals & Systems,2026-03-13,5,Present
+STU0051,Ganesh Sundaram,ECE,1,C,VLSI Design,2026-02-15,-1,Present
+STU0051,Ganesh Sundaram,ECE,1,C,VLSI Design,2026-04-28,6,Unknown
+STU0051,Ganesh Sundaram,ECE,1,C,VLSI Design,2026-05-26,8,Late
+STU0051,Ganesh Sundaram,ECE,1,C,Signals & Systems,2026-04-24,8,Present
+STU0051,Ganesh Sundaram,ECE,1,C,Digital Electronics,2026-05-28,2,Present
+STU0051,Ganesh Sundaram,ECE,1,C,Signals & Systems,2026-01-07,6,Present
+STU0051,Ganesh Sundaram,ECE,1,C,Signals & Systems,2026-02-02,3,Present
+STU0051,Ganesh Sundaram,ECE,1,C,Signals & Systems,2026-01-24,5,Present
+STU0051,Ganesh Sundaram,ECE,1,C,Digital Electronics,2026-06-30,1,Present
+STU0052,Divya Sundaram,EEE,2,B,Power Systems,2026-02-12,8,Absent
+STU0052,Divya Sundaram,EEE,2,B,Electrical Machines,2026-05-24,7,Present
+STU0052,Divya Sundaram,EEE,2,B,Control Systems,2026-01-14,1,Present
+STU0052,Divya Sundaram,EEE,2,B,Control Systems,2026-04-09,6,Present
+STU0052,Divya Sundaram,EEE,2,B,Control Systems,2026-06-03,5,Present
+STU0052,Divya Sundaram,EEE,2,B,Control Systems,2026-05-26,5,Late
+STU0052,Divya Sundaram,EEE,2,B,Control Systems,2026-02-11,2,Present
+STU0053,Prasanth Balan,ECE,3,C,Signals & Systems,2026-04-25,6,Present
+STU0053,Prasanth Balan,ECE,3,C,Digital Electronics,2026-02-06,7,Present
+STU0053,Prasanth Balan,ECE,3,C,VLSI Design,2026-01-15,6,Present
+STU0053,Prasanth Balan,ECE,3,C,Digital Electronics,2026-03-24,7,Present
+STU0053,Prasanth Balan,ECE,3,C,Digital Electronics,2026-04-08,8,Absent
+STU0053,Prasanth Balan,ECE,3,C,Digital Electronics,2026-01-15,7,Present
+STU0053,Prasanth Balan,ECE,3,C,Digital Electronics,2026-04-06,3,Present
+STU0053,Prasanth Balan,ECE,3,C,Signals & Systems,2026-02-27,6,Present
+STU0053,Prasanth Balan,ECE,3,C,Digital Electronics,2026-06-28,3,Present
+STU0053,Prasanth Balan,ECE,3,C,VLSI Design,2026-03-09,5,Present
+STU0054,Suresh Murugan,EEE,1,C,Power Systems,2026-06-24,4,Absent
+STU0054,Suresh Murugan,EEE,1,C,Electrical Machines,2026-01-31,2,Late
+STU0054,Suresh Murugan,EEE,1,C,Control Systems,2026-04-05,6,Present
+STU0054,Suresh Murugan,EEE,1,C,Power Systems,2026-05-28,8,Present
+STU0054,Suresh Murugan,EEE,1,C,Electrical Machines,2026-04-19,5,Absent
+STU0054,Suresh Murugan,EEE,1,C,Power Systems,2026-06-12,6,Absent
+STU0054,Suresh Murugan,EEE,1,C,Electrical Machines,2026-02-13,7,Absent
+STU0055,Kavya Krishnan,ECE,4,A,Signals & Systems,2026-03-06,8,Unknown
+STU0055,Kavya Krishnan,ECE,4,A,VLSI Design,2026-02-15,3,Present
+STU0055,Kavya Krishnan,ECE,4,A,VLSI Design,2026-02-19,5,Present
+STU0055,Kavya Krishnan,ECE,4,A,Digital Electronics,2026-04-20,8,Present
+STU0055,Kavya Krishnan,ECE,4,A,Digital Electronics,2026-01-11,7,Present
+STU0055,Kavya Krishnan,ECE,4,A,VLSI Design,2026-02-19,7,Absent
+STU0055,Kavya Krishnan,ECE,4,A,VLSI Design,2026-03-31,4,Present
+STU0055,Kavya Krishnan,ECE,4,A,Signals & Systems,2026-04-20,1,Absent
+STU0056,Prasanth Nair,MECH,4,C,Machine Design,2026-06-25,7,Absent
+STU0056,Prasanth Nair,MECH,4,C,Fluid Mechanics,2026-03-09,7,Present
+STU0056,Prasanth Nair,MECH,4,C,Fluid Mechanics,2026-03-14,3,Present
+STU0056,Prasanth Nair,MECH,4,C,Thermodynamics,2026-02-14,5,Late
+STU0056,Prasanth Nair,MECH,4,C,Machine Design,2026-02-01,7,Present
+STU0056,Prasanth Nair,MECH,4,C,Fluid Mechanics,2026-04-12,3,Present
+STU0057,Harish Reddy,CIVIL,3,C,Structural Analysis,2026-01-14,3,Present
+STU0057,Harish Reddy,CIVIL,3,C,Structural Analysis,2026-05-05,5,Present
+STU0057,Harish Reddy,CIVIL,3,C,Surveying,2026-03-02,5,Present
+STU0057,Harish Reddy,CIVIL,3,C,Surveying,2026-02-25,5,Absent
+STU0057,Harish Reddy,CIVIL,3,C,Unknown,2026-05-02,-1,Late
+STU0057,Harish Reddy,CIVIL,3,C,Geotechnical Engg,2026-04-04,7,Present
+STU0057,Harish Reddy,CIVIL,3,C,Geotechnical Engg,2026-03-24,1,Present
+STU0057,Harish Reddy,CIVIL,3,C,Structural Analysis,2026-03-04,6,Present
+STU0057,Harish Reddy,CIVIL,3,C,Surveying,2026-03-03,8,Present
+STU0057,Harish Reddy,CIVIL,3,C,Surveying,2026-01-11,3,Present
+STU0057,Harish Reddy,CIVIL,3,C,Surveying,2026-06-22,8,Present
+STU0058,Prasanth Sekar,EEE,2,B,Electrical Machines,2026-02-23,8,On Duty
+STU0058,Prasanth Sekar,EEE,2,B,Control Systems,2026-04-17,2,Present
+STU0058,Prasanth Sekar,EEE,2,B,Power Systems,2026-03-30,1,Absent
+STU0058,Prasanth Sekar,EEE,2,B,Control Systems,2026-03-17,8,Present
+STU0058,Prasanth Sekar,EEE,2,B,Power Systems,2026-01-22,7,Present
+STU0058,Prasanth Sekar,EEE,2,B,Electrical Machines,2026-03-17,7,Absent
+STU0058,Prasanth Sekar,EEE,2,B,Power Systems,2026-04-04,7,Present
+STU0058,Prasanth Sekar,EEE,2,B,Electrical Machines,2026-06-18,2,Absent
+STU0058,Prasanth Sekar,EEE,2,B,Control Systems,2026-05-15,5,Absent
+STU0059,Keerthi Raj,CIVIL,1,A,Structural Analysis,2026-04-17,8,Absent
+STU0059,Keerthi Raj,CIVIL,1,A,Surveying,2026-06-27,6,Absent
+STU0059,Keerthi Raj,CIVIL,1,A,Structural Analysis,2026-05-22,2,Present
+STU0059,Keerthi Raj,CIVIL,1,A,Geotechnical Engg,2026-03-30,6,Present
+STU0059,Keerthi Raj,CIVIL,1,A,Structural Analysis,2026-01-12,7,Present
+STU0059,Keerthi Raj,CIVIL,1,A,Geotechnical Engg,2026-02-03,2,Present
+STU0059,Keerthi Raj,CIVIL,1,A,Structural Analysis,2026-03-12,6,Absent
+STU0059,Keerthi Raj,CIVIL,1,A,Geotechnical Engg,2026-02-19,7,Present
+STU0060,Suresh Nair,EEE,3,C,Electrical Machines,2026-06-02,3,Present
+STU0060,Suresh Nair,EEE,3,C,Control Systems,2026-03-13,3,Absent
+STU0060,Suresh Nair,EEE,3,C,Electrical Machines,2026-01-14,4,Absent
+STU0060,Suresh Nair,EEE,3,C,Electrical Machines,2026-02-01,2,Absent
+STU0060,Suresh Nair,EEE,3,C,Power Systems,2026-06-06,4,Present
+STU0060,Suresh Nair,EEE,3,C,Control Systems,2026-04-26,6,Unknown
+STU0060,Suresh Nair,EEE,3,C,Control Systems,2026-04-03,1,Present
+STU0060,Suresh Nair,EEE,3,C,Power Systems,2026-03-26,8,Present
+STU0060,Suresh Nair,EEE,3,C,Control Systems,2026-04-26,3,Present
+STU0060,Suresh Nair,EEE,3,C,Control Systems,2026-06-09,2,Present
+STU0060,Suresh Nair,EEE,3,C,Control Systems,2026-05-15,6,Present
+STU0060,Suresh Nair,EEE,3,C,Power Systems,2026-02-03,8,Present
+STU0060,Suresh Nair,EEE,3,C,Power Systems,2026-04-13,1,Present
+STU0061,Lakshmi Venkatesan,CIVIL,4,C,Geotechnical Engg,2026-06-01,4,Unknown
+STU0061,Lakshmi Venkatesan,CIVIL,4,C,Geotechnical Engg,2026-02-22,2,Absent
+STU0061,Lakshmi Venkatesan,CIVIL,4,C,Geotechnical Engg,2026-03-11,8,Present
+STU0061,Lakshmi Venkatesan,CIVIL,4,C,Surveying,2026-01-16,1,Unknown
+STU0061,Lakshmi Venkatesan,CIVIL,4,C,Structural Analysis,2026-04-26,4,Late
+STU0061,Lakshmi Venkatesan,CIVIL,4,C,Unknown,2026-01-05,7,Present
+STU0061,Lakshmi Venkatesan,CIVIL,4,C,Geotechnical Engg,2026-05-18,7,Present
+STU0062,Anitha Chandran,CIVIL,1,B,Geotechnical Engg,2026-05-22,2,Present
+STU0062,Anitha Chandran,CIVIL,1,B,Surveying,2026-06-29,4,Late
+STU0062,Anitha Chandran,CIVIL,1,B,Geotechnical Engg,2026-06-25,2,Present
+STU0062,Anitha Chandran,CIVIL,1,B,Geotechnical Engg,2026-02-24,5,Present
+STU0062,Anitha Chandran,CIVIL,1,B,Geotechnical Engg,2026-04-08,8,Unknown
+STU0062,Anitha Chandran,CIVIL,1,B,Surveying,2026-04-25,7,Absent
+STU0062,Anitha Chandran,CIVIL,1,B,Surveying,2026-01-22,7,Present
+STU0062,Anitha Chandran,CIVIL,1,B,Surveying,2026-06-24,2,Absent
+STU0062,Anitha Chandran,CIVIL,1,B,Surveying,2026-03-30,1,Present
+STU0063,Anu Murugan,IT,2,B,Software Engineering,2026-06-13,6,Present
+STU0063,Anu Murugan,IT,2,B,Software Engineering,2026-03-26,4,Present
+STU0063,Anu Murugan,IT,2,B,Software Engineering,2026-06-23,1,Present
+STU0063,Anu Murugan,IT,2,B,Web Technology,2026-02-05,5,Present
+STU0063,Anu Murugan,IT,2,B,Cloud Computing,2026-03-22,5,Late
+STU0063,Anu Murugan,IT,2,B,Software Engineering,2026-05-14,6,Absent
+STU0063,Anu Murugan,IT,2,B,Web Technology,2026-03-25,5,On Duty
+STU0063,Anu Murugan,IT,2,B,Software Engineering,2026-06-24,4,Absent
+STU0064,Swathi Krishnan,EEE,1,A,Electrical Machines,2026-04-19,4,Present
+STU0064,Swathi Krishnan,EEE,1,A,Power Systems,2026-03-29,8,Present
+STU0064,Swathi Krishnan,EEE,1,A,Electrical Machines,2026-04-18,3,Present
+STU0064,Swathi Krishnan,EEE,1,A,Power Systems,2026-03-21,4,Unknown
+STU0064,Swathi Krishnan,EEE,1,A,Control Systems,2026-05-26,3,Present
+STU0064,Swathi Krishnan,EEE,1,A,Power Systems,2026-02-06,6,Absent
+STU0064,Swathi Krishnan,EEE,1,A,Control Systems,2026-02-23,3,Present
+STU0064,Swathi Krishnan,EEE,1,A,Power Systems,2026-04-22,5,Unknown
+STU0064,Swathi Krishnan,EEE,1,A,Control Systems,2026-06-24,3,Late
+STU0065,Ganesh Murugan,EEE,4,C,Power Systems,2026-04-12,1,Unknown
+STU0065,Ganesh Murugan,EEE,4,C,Power Systems,2026-06-27,-1,Unknown
+STU0065,Ganesh Murugan,EEE,4,C,Control Systems,2026-02-18,3,Present
+STU0065,Ganesh Murugan,EEE,4,C,Power Systems,2026-06-11,3,Present
+STU0065,Ganesh Murugan,EEE,4,C,Control Systems,2026-05-30,4,Present
+STU0065,Ganesh Murugan,EEE,4,C,Power Systems,2026-03-23,6,Present
+STU0065,Ganesh Murugan,EEE,4,C,Control Systems,2026-04-18,8,Present
+STU0065,Ganesh Murugan,EEE,4,C,Power Systems,2026-05-25,3,Present
+STU0065,Ganesh Murugan,EEE,4,C,Control Systems,2026-01-05,5,Present
+STU0066,Pooja Raj,IT,3,B,Web Technology,2026-03-23,2,Present
+STU0066,Pooja Raj,IT,3,B,Web Technology,2026-03-19,7,Absent
+STU0066,Pooja Raj,IT,3,B,Cloud Computing,2026-02-27,2,Late
+STU0066,Pooja Raj,IT,3,B,Software Engineering,2026-04-25,3,Present
+STU0066,Pooja Raj,IT,3,B,Web Technology,2026-06-02,2,Present
+STU0066,Pooja Raj,IT,3,B,Cloud Computing,2026-06-09,4,Present
+STU0066,Pooja Raj,IT,3,B,Cloud Computing,2026-06-21,8,Present
+STU0066,Pooja Raj,IT,3,B,Cloud Computing,2026-03-28,2,Absent
+STU0066,Pooja Raj,IT,3,B,Software Engineering,2026-05-04,8,Present
+STU0066,Pooja Raj,IT,3,B,Web Technology,2026-04-28,3,Present
+STU0066,Pooja Raj,IT,3,B,Software Engineering,2026-04-28,7,Present
+STU0066,Pooja Raj,IT,3,B,Web Technology,2026-06-26,4,Absent
+STU0067,Mohan Sundaram,IT,3,B,Web Technology,2026-02-28,3,Present
+STU0067,Mohan Sundaram,IT,3,B,Web Technology,2026-05-15,5,Present
+STU0067,Mohan Sundaram,IT,3,B,Web Technology,2026-05-06,4,Present
+STU0067,Mohan Sundaram,IT,3,B,Software Engineering,2026-02-17,4,Present
+STU0067,Mohan Sundaram,IT,3,B,Cloud Computing,2026-06-22,4,Present
+STU0067,Mohan Sundaram,IT,3,B,Software Engineering,2026-01-26,7,Present
+STU0067,Mohan Sundaram,IT,3,B,Web Technology,2026-03-18,8,Present
+STU0068,Sneha Murugan,MECH,1,C,Thermodynamics,2026-05-16,4,Present
+STU0068,Sneha Murugan,MECH,1,C,Machine Design,2026-06-23,7,Present
+STU0068,Sneha Murugan,MECH,1,C,Machine Design,2026-06-16,7,Present
+STU0068,Sneha Murugan,MECH,1,C,Fluid Mechanics,2026-06-12,3,Present
+STU0068,Sneha Murugan,MECH,1,C,Fluid Mechanics,2026-03-31,7,Present
+STU0068,Sneha Murugan,MECH,1,C,Machine Design,2026-01-28,5,Present
+STU0068,Sneha Murugan,MECH,1,C,Thermodynamics,2026-03-06,7,Present
+STU0068,Sneha Murugan,MECH,1,C,Machine Design,2026-06-26,8,Present
+STU0069,Kavya Krishnan,CIVIL,3,B,Structural Analysis,2026-03-25,5,Present
+STU0069,Kavya Krishnan,CIVIL,3,B,Structural Analysis,2026-03-03,1,Present
+STU0069,Kavya Krishnan,CIVIL,3,B,Surveying,2026-02-24,4,Present
+STU0069,Kavya Krishnan,CIVIL,3,B,Structural Analysis,2026-02-11,5,Present
+STU0069,Kavya Krishnan,CIVIL,3,B,Surveying,2026-01-11,8,Absent
+STU0070,Karthik Sundaram,MECH,3,A,Machine Design,2026-01-16,2,Present
+STU0070,Karthik Sundaram,MECH,3,A,Fluid Mechanics,2026-03-08,7,Present
+STU0070,Karthik Sundaram,MECH,3,A,Thermodynamics,2026-05-06,3,Absent
+STU0070,Karthik Sundaram,MECH,3,A,Fluid Mechanics,2026-06-10,6,Present
+STU0070,Karthik Sundaram,MECH,3,A,Fluid Mechanics,2026-01-23,7,Present
+STU0070,Karthik Sundaram,MECH,3,A,Fluid Mechanics,2026-05-01,-1,Present
+STU0071,Arjun Kumar,CIVIL,4,C,Surveying,2026-04-21,3,Absent
+STU0071,Arjun Kumar,CIVIL,4,C,Unknown,2026-06-15,5,Unknown
+STU0071,Arjun Kumar,CIVIL,4,C,Surveying,2026-06-01,4,Present
+STU0071,Arjun Kumar,CIVIL,4,C,Surveying,2026-02-23,1,On Duty
+STU0071,Arjun Kumar,CIVIL,4,C,Geotechnical Engg,2026-04-13,6,Present
+STU0071,Arjun Kumar,CIVIL,4,C,Structural Analysis,2026-05-11,5,Present
+STU0071,Arjun Kumar,CIVIL,4,C,Structural Analysis,2026-04-17,7,Present
+STU0071,Arjun Kumar,CIVIL,4,C,Geotechnical Engg,2026-03-08,3,Absent
+STU0072,Bala Chandran,CIVIL,4,A,Geotechnical Engg,2026-02-11,6,Present
+STU0072,Bala Chandran,CIVIL,4,A,Structural Analysis,2026-06-21,1,Absent
+STU0072,Bala Chandran,CIVIL,4,A,Surveying,2026-06-30,3,Present
+STU0073,Keerthi Chandran,IT,4,C,Cloud Computing,2026-01-06,6,Present
+STU0073,Keerthi Chandran,IT,4,C,Software Engineering,2026-02-01,3,Present
+STU0073,Keerthi Chandran,IT,4,C,Cloud Computing,2026-04-23,5,Present
+STU0073,Keerthi Chandran,IT,4,C,Software Engineering,2026-03-02,7,Present
+STU0073,Keerthi Chandran,IT,4,C,Cloud Computing,2026-02-19,1,Present
+STU0074,Bala Nair,IT,4,C,Cloud Computing,2026-05-17,4,Present
+STU0074,Bala Nair,IT,4,C,Software Engineering,2026-05-03,8,Present
+STU0074,Bala Nair,IT,4,C,Web Technology,2026-01-17,4,Present
+STU0074,Bala Nair,IT,4,C,Software Engineering,2026-05-27,6,Present
+STU0074,Bala Nair,IT,4,C,Software Engineering,2026-03-09,3,On Duty
+STU0075,Priya Sundaram,ECE,1,B,VLSI Design,2026-02-05,4,Present
+STU0075,Priya Sundaram,ECE,1,B,Digital Electronics,2026-05-01,4,Present
+STU0075,Priya Sundaram,ECE,1,B,Signals & Systems,2026-02-08,5,Present
+STU0075,Priya Sundaram,ECE,1,B,Digital Electronics,2026-05-03,3,Late
+STU0075,Priya Sundaram,ECE,1,B,Digital Electronics,2026-06-24,8,Present
+STU0075,Priya Sundaram,ECE,1,B,Signals & Systems,2026-05-20,1,Present
+STU0075,Priya Sundaram,ECE,1,B,Digital Electronics,2026-05-28,6,Present
+STU0075,Priya Sundaram,ECE,1,B,Signals & Systems,2026-06-06,-1,Present
+STU0075,Priya Sundaram,ECE,1,B,Digital Electronics,2026-03-27,1,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,Operating Systems,2026-04-28,2,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,Computer Networks,2026-06-10,2,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,Data Structures,2026-05-14,6,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,DBMS,2026-04-24,6,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,Data Structures,2026-05-25,-1,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,Unknown,2026-04-29,1,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,Data Structures,2026-02-14,2,Present
+STU0076,Lakshmi Krishnan,CSE,3,A,Computer Networks,2026-05-06,2,Absent
+STU0077,Meena Mani,IT,3,A,Cloud Computing,2026-04-30,5,On Duty
+STU0077,Meena Mani,IT,3,A,Web Technology,2026-03-12,6,Present
+STU0077,Meena Mani,IT,3,A,Unknown,2026-03-09,3,Present
+STU0077,Meena Mani,IT,3,A,Software Engineering,2026-06-17,7,Present
+STU0077,Meena Mani,IT,3,A,Cloud Computing,2026-03-16,1,Present
+STU0077,Meena Mani,IT,3,A,Cloud Computing,2026-05-18,7,Present
+STU0077,Meena Mani,IT,3,A,Cloud Computing,2026-05-09,3,Absent
+STU0077,Meena Mani,IT,3,A,Web Technology,2026-06-14,7,Present
+STU0077,Meena Mani,IT,3,A,Cloud Computing,2026-03-07,8,Present
+STU0077,Meena Mani,IT,3,A,Software Engineering,2026-03-16,7,Present
+STU0078,Anitha Reddy,CSE,1,A,Data Structures,2026-04-27,4,Present
+STU0078,Anitha Reddy,CSE,1,A,DBMS,2026-01-24,4,Present
+STU0078,Anitha Reddy,CSE,1,A,Computer Networks,2026-03-19,8,Present
+STU0078,Anitha Reddy,CSE,1,A,Computer Networks,2026-03-06,5,Present
+STU0078,Anitha Reddy,CSE,1,A,Operating Systems,2026-03-15,8,Present
+STU0078,Anitha Reddy,CSE,1,A,Data Structures,2026-03-31,4,Present
+STU0078,Anitha Reddy,CSE,1,A,Data Structures,2026-03-27,7,On Duty
+STU0078,Anitha Reddy,CSE,1,A,Operating Systems,2026-05-23,6,Present
+STU0078,Anitha Reddy,CSE,1,A,Operating Systems,2026-01-25,5,Present
+STU0078,Anitha Reddy,CSE,1,A,Computer Networks,2026-02-09,3,Present
+STU0078,Anitha Reddy,CSE,1,A,Data Structures,2026-02-12,2,Present
+STU0079,Vikram Raj,CSE,1,B,Computer Networks,2026-03-05,3,Present
+STU0079,Vikram Raj,CSE,1,B,Data Structures,2026-04-13,3,Absent
+STU0079,Vikram Raj,CSE,1,B,Operating Systems,2026-02-13,-1,Present
+STU0079,Vikram Raj,CSE,1,B,Data Structures,2026-02-28,2,Present
+STU0080,Pooja Mani,ECE,4,B,Digital Electronics,2026-01-21,6,On Duty
+STU0080,Pooja Mani,ECE,4,B,VLSI Design,2026-04-21,8,Present
+STU0080,Pooja Mani,ECE,4,B,VLSI Design,2026-04-19,1,Present
+STU0080,Pooja Mani,ECE,4,B,Digital Electronics,2026-03-30,5,Late
+STU0080,Pooja Mani,ECE,4,B,Signals & Systems,2026-05-23,8,Present
+STU0080,Pooja Mani,ECE,4,B,Signals & Systems,2026-05-04,6,Present
+STU0080,Pooja Mani,ECE,4,B,Signals & Systems,2026-04-21,-1,On Duty
+STU0080,Pooja Mani,ECE,4,B,Signals & Systems,2026-01-20,1,Late
+STU0081,Dinesh Pillai,MECH,3,A,Thermodynamics,2026-02-26,5,Absent
+STU0081,Dinesh Pillai,MECH,3,A,Machine Design,2026-04-22,7,Present
+STU0081,Dinesh Pillai,MECH,3,A,Thermodynamics,2026-04-14,1,Absent
+STU0081,Dinesh Pillai,MECH,3,A,Thermodynamics,2026-06-03,8,Present
+STU0081,Dinesh Pillai,MECH,3,A,Machine Design,2026-01-10,6,Present
+STU0081,Dinesh Pillai,MECH,3,A,Thermodynamics,2026-06-01,7,Late
+STU0081,Dinesh Pillai,MECH,3,A,Thermodynamics,2026-04-12,2,Present
+STU0081,Dinesh Pillai,MECH,3,A,Machine Design,2026-05-07,3,Present
+STU0081,Dinesh Pillai,MECH,3,A,Fluid Mechanics,2026-01-06,3,Present
+STU0081,Dinesh Pillai,MECH,3,A,Fluid Mechanics,2026-04-05,5,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-03-22,3,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-04-14,7,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-04-22,7,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-05-22,8,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Thermodynamics,2026-05-24,1,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Machine Design,2026-06-08,3,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-03-02,6,Absent
+STU0082,Lakshmi Sundaram,MECH,4,B,Thermodynamics,2026-05-09,5,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-03-02,5,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Machine Design,2026-03-15,1,Absent
+STU0082,Lakshmi Sundaram,MECH,4,B,Machine Design,2026-04-26,5,Present
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-05-09,6,Absent
+STU0082,Lakshmi Sundaram,MECH,4,B,Fluid Mechanics,2026-01-12,2,Present
+STU0083,Priya Krishnan,EEE,4,B,Electrical Machines,2026-04-14,1,Present
+STU0083,Priya Krishnan,EEE,4,B,Power Systems,2026-04-01,5,Present
+STU0083,Priya Krishnan,EEE,4,B,Power Systems,2026-06-25,-1,Absent
+STU0083,Priya Krishnan,EEE,4,B,Electrical Machines,2026-06-27,5,Present
+STU0083,Priya Krishnan,EEE,4,B,Electrical Machines,2026-04-18,2,Present
+STU0083,Priya Krishnan,EEE,4,B,Power Systems,2026-02-16,-1,Present
+STU0083,Priya Krishnan,EEE,4,B,Control Systems,2026-05-04,6,Present
+STU0083,Priya Krishnan,EEE,4,B,Control Systems,2026-02-06,2,Present
+STU0083,Priya Krishnan,EEE,4,B,Power Systems,2026-06-13,8,Present
+STU0083,Priya Krishnan,EEE,4,B,Electrical Machines,2026-05-21,-1,Unknown
+STU0083,Priya Krishnan,EEE,4,B,Control Systems,2026-01-11,4,Late
+STU0083,Priya Krishnan,EEE,4,B,Control Systems,2026-04-15,4,Present
+STU0083,Priya Krishnan,EEE,4,B,Electrical Machines,2026-06-05,-1,Present
+STU0084,Keerthi Balan,IT,1,A,Cloud Computing,2026-05-29,4,Absent
+STU0084,Keerthi Balan,IT,1,A,Cloud Computing,2026-06-23,2,Late
+STU0084,Keerthi Balan,IT,1,A,Cloud Computing,2026-01-11,6,Present
+STU0084,Keerthi Balan,IT,1,A,Cloud Computing,2026-01-26,6,Present
+STU0084,Keerthi Balan,IT,1,A,Cloud Computing,2026-06-18,8,Present
+STU0084,Keerthi Balan,IT,1,A,Web Technology,2026-04-24,3,Present
+STU0084,Keerthi Balan,IT,1,A,Web Technology,2026-02-08,4,Absent
+STU0085,Rahul Balan,MECH,2,A,Thermodynamics,2026-05-03,4,Present
+STU0085,Rahul Balan,MECH,2,A,Machine Design,2026-02-20,2,Present
+STU0085,Rahul Balan,MECH,2,A,Fluid Mechanics,2026-01-17,3,Absent
+STU0085,Rahul Balan,MECH,2,A,Machine Design,2026-03-12,1,Present
+STU0085,Rahul Balan,MECH,2,A,Machine Design,2026-04-12,6,Absent
+STU0085,Rahul Balan,MECH,2,A,Machine Design,2026-03-29,1,Present
+STU0085,Rahul Balan,MECH,2,A,Machine Design,2026-02-28,6,Present
+STU0085,Rahul Balan,MECH,2,A,Fluid Mechanics,2026-05-01,8,Present
+STU0085,Rahul Balan,MECH,2,A,Machine Design,2026-03-29,5,Present
+STU0086,Anitha Rao,CSE,1,C,DBMS,2026-04-01,8,Present
+STU0086,Anitha Rao,CSE,1,C,Computer Networks,2026-04-12,1,Absent
+STU0087,Anitha Rao,ECE,4,B,Signals & Systems,2026-03-17,3,Present
+STU0087,Anitha Rao,ECE,4,B,Digital Electronics,2026-04-22,2,Absent
+STU0087,Anitha Rao,ECE,4,B,Digital Electronics,2026-03-10,6,Unknown
+STU0087,Anitha Rao,ECE,4,B,VLSI Design,2026-01-25,5,Present
+STU0087,Anitha Rao,ECE,4,B,VLSI Design,2026-05-05,7,Present
+STU0087,Anitha Rao,ECE,4,B,Digital Electronics,2026-01-09,7,Present
+STU0087,Anitha Rao,ECE,4,B,VLSI Design,2026-05-23,2,Present
+STU0087,Anitha Rao,ECE,4,B,Digital Electronics,2026-01-18,4,Present
+STU0087,Anitha Rao,ECE,4,B,Digital Electronics,2026-04-04,2,Present
+STU0087,Anitha Rao,ECE,4,B,Unknown,2026-03-03,6,Present
+STU0087,Anitha Rao,ECE,4,B,Signals & Systems,2026-06-20,7,Unknown
+STU0087,Anitha Rao,ECE,4,B,Digital Electronics,2026-01-22,4,Present
+STU0087,Anitha Rao,ECE,4,B,Signals & Systems,2026-06-20,4,Unknown
+STU0087,Anitha Rao,ECE,4,B,Digital Electronics,2026-01-15,5,Present
+STU0087,Anitha Rao,ECE,4,B,Signals & Systems,2026-01-12,7,Present
+STU0087,Anitha Rao,ECE,4,B,Signals & Systems,2026-03-09,5,Present
+STU0088,Anitha Raj,CIVIL,4,C,Structural Analysis,2026-02-25,8,Present
+STU0088,Anitha Raj,CIVIL,4,C,Structural Analysis,2026-01-10,4,Present
+STU0088,Anitha Raj,CIVIL,4,C,Surveying,2026-06-13,-1,Present
+STU0088,Anitha Raj,CIVIL,4,C,Geotechnical Engg,2026-02-13,5,Present
+STU0088,Anitha Raj,CIVIL,4,C,Structural Analysis,2026-03-07,7,Absent
+STU0088,Anitha Raj,CIVIL,4,C,Surveying,2026-02-06,6,Present
+STU0088,Anitha Raj,CIVIL,4,C,Geotechnical Engg,2026-05-06,7,Present
+STU0088,Anitha Raj,CIVIL,4,C,Structural Analysis,2026-06-25,1,Present
+STU0089,Bala Nair,CIVIL,1,B,Surveying,2026-02-03,1,Absent
+STU0089,Bala Nair,CIVIL,1,B,Geotechnical Engg,2026-05-29,5,Late
+STU0089,Bala Nair,CIVIL,1,B,Unknown,2026-03-01,1,Present
+STU0089,Bala Nair,CIVIL,1,B,Unknown,2026-05-04,3,Absent
+STU0089,Bala Nair,CIVIL,1,B,Structural Analysis,2026-03-11,2,Present
+STU0089,Bala Nair,CIVIL,1,B,Surveying,2026-04-09,2,Present
+STU0090,Sneha Rao,MECH,2,B,Fluid Mechanics,2026-02-16,4,Present
+STU0090,Sneha Rao,MECH,2,B,Fluid Mechanics,2026-06-09,3,Present
+STU0090,Sneha Rao,MECH,2,B,Thermodynamics,2026-06-09,5,Unknown
+STU0090,Sneha Rao,MECH,2,B,Fluid Mechanics,2026-02-03,8,Absent
+STU0090,Sneha Rao,MECH,2,B,Fluid Mechanics,2026-02-15,1,Present
+STU0090,Sneha Rao,MECH,2,B,Fluid Mechanics,2026-03-25,5,Absent
+STU0090,Sneha Rao,MECH,2,B,Fluid Mechanics,2026-02-01,1,Present
+STU0091,Karthik Pillai,CIVIL,3,A,Geotechnical Engg,2026-06-02,-1,Late
+STU0091,Karthik Pillai,CIVIL,3,A,Structural Analysis,2026-01-11,1,Present
+STU0091,Karthik Pillai,CIVIL,3,A,Geotechnical Engg,2026-03-25,7,Absent
+STU0091,Karthik Pillai,CIVIL,3,A,Surveying,2026-06-01,2,Present
+STU0091,Karthik Pillai,CIVIL,3,A,Geotechnical Engg,2026-06-27,5,Absent
+STU0091,Karthik Pillai,CIVIL,3,A,Surveying,2026-04-11,5,Present
+STU0092,Keerthi Balan,MECH,3,C,Fluid Mechanics,2026-04-16,5,Late
+STU0092,Keerthi Balan,MECH,3,C,Thermodynamics,2026-02-24,6,Present
+STU0092,Keerthi Balan,MECH,3,C,Machine Design,2026-01-24,6,Present
+STU0092,Keerthi Balan,MECH,3,C,Thermodynamics,2026-06-05,-1,Present
+STU0092,Keerthi Balan,MECH,3,C,Machine Design,2026-06-30,5,Present
+STU0092,Keerthi Balan,MECH,3,C,Machine Design,2026-06-14,4,Present
+STU0092,Keerthi Balan,MECH,3,C,Fluid Mechanics,2026-03-08,5,Present
+STU0092,Keerthi Balan,MECH,3,C,Machine Design,2026-01-31,7,Absent
+STU0092,Keerthi Balan,MECH,3,C,Thermodynamics,2026-03-23,-1,Present
+STU0092,Keerthi Balan,MECH,3,C,Thermodynamics,2026-06-29,8,Present
+STU0092,Keerthi Balan,MECH,3,C,Machine Design,2026-06-07,2,On Duty
+STU0092,Keerthi Balan,MECH,3,C,Thermodynamics,2026-02-04,6,Absent
+STU0092,Keerthi Balan,MECH,3,C,Thermodynamics,2026-05-29,3,Present
+STU0092,Keerthi Balan,MECH,3,C,Machine Design,2026-01-15,2,Present
+STU0093,Anitha Raj,EEE,3,A,Power Systems,2026-04-03,1,Present
+STU0093,Anitha Raj,EEE,3,A,Control Systems,2026-05-21,7,Present
+STU0093,Anitha Raj,EEE,3,A,Electrical Machines,2026-04-24,4,Present
+STU0093,Anitha Raj,EEE,3,A,Unknown,2026-06-23,2,Late
+STU0093,Anitha Raj,EEE,3,A,Electrical Machines,2026-04-09,2,Absent
+STU0093,Anitha Raj,EEE,3,A,Electrical Machines,2026-01-22,1,Present
+STU0093,Anitha Raj,EEE,3,A,Power Systems,2026-05-14,6,Absent
+STU0093,Anitha Raj,EEE,3,A,Electrical Machines,2026-06-19,5,Absent
+STU0093,Anitha Raj,EEE,3,A,Control Systems,2026-04-02,2,Present
+STU0094,Kavya Sekar,IT,1,A,Web Technology,2026-01-08,2,Present
+STU0094,Kavya Sekar,IT,1,A,Cloud Computing,2026-04-22,1,Present
+STU0094,Kavya Sekar,IT,1,A,Software Engineering,2026-05-10,8,Present
+STU0094,Kavya Sekar,IT,1,A,Web Technology,2026-02-01,2,Absent
+STU0094,Kavya Sekar,IT,1,A,Software Engineering,2026-04-25,8,Absent
+STU0095,Aravind Nair,EEE,3,B,Power Systems,2026-04-07,7,Present
+STU0095,Aravind Nair,EEE,3,B,Electrical Machines,2026-06-16,7,Present
+STU0095,Aravind Nair,EEE,3,B,Electrical Machines,2026-05-02,4,Absent
+STU0095,Aravind Nair,EEE,3,B,Control Systems,2026-02-13,5,Present
+STU0095,Aravind Nair,EEE,3,B,Power Systems,2026-04-26,1,Present
+STU0095,Aravind Nair,EEE,3,B,Electrical Machines,2026-02-19,2,Absent
+STU0095,Aravind Nair,EEE,3,B,Control Systems,2026-05-18,8,Present
+STU0095,Aravind Nair,EEE,3,B,Electrical Machines,2026-06-20,2,Present
+STU0095,Aravind Nair,EEE,3,B,Power Systems,2026-03-15,2,Present
+STU0095,Aravind Nair,EEE,3,B,Control Systems,2026-06-11,6,Present
+STU0095,Aravind Nair,EEE,3,B,Electrical Machines,2026-05-22,2,Present
+STU0095,Aravind Nair,EEE,3,B,Control Systems,2026-05-08,3,Present
+STU0095,Aravind Nair,EEE,3,B,Electrical Machines,2026-05-04,8,Absent
+STU0096,Suresh Reddy,ECE,3,C,VLSI Design,2026-04-26,4,Present
+STU0096,Suresh Reddy,ECE,3,C,Signals & Systems,2026-06-05,1,Present
+STU0097,Sneha Sundaram,IT,2,C,Cloud Computing,2026-03-14,5,Unknown
+STU0097,Sneha Sundaram,IT,2,C,Cloud Computing,2026-03-28,1,Present
+STU0097,Sneha Sundaram,IT,2,C,Cloud Computing,2026-03-08,3,Present
+STU0097,Sneha Sundaram,IT,2,C,Web Technology,2026-01-27,7,Present
+STU0097,Sneha Sundaram,IT,2,C,Software Engineering,2026-03-17,5,Present
+STU0097,Sneha Sundaram,IT,2,C,Software Engineering,2026-04-30,5,Present
+STU0097,Sneha Sundaram,IT,2,C,Software Engineering,2026-03-08,3,Present
+STU0098,Anu Rao,EEE,3,A,Power Systems,2026-05-03,3,Present
+STU0098,Anu Rao,EEE,3,A,Power Systems,2026-05-30,8,Present
+STU0098,Anu Rao,EEE,3,A,Electrical Machines,2026-06-10,8,Present
+STU0098,Anu Rao,EEE,3,A,Power Systems,2026-06-25,2,Present
+STU0098,Anu Rao,EEE,3,A,Electrical Machines,2026-04-12,1,Present
+STU0098,Anu Rao,EEE,3,A,Electrical Machines,2026-04-01,5,Present
+STU0098,Anu Rao,EEE,3,A,Power Systems,2026-01-12,7,Present
+STU0099,Sneha Balan,MECH,1,A,Fluid Mechanics,2026-05-11,4,Present
+STU0099,Sneha Balan,MECH,1,A,Fluid Mechanics,2026-03-29,7,Present
+STU0099,Sneha Balan,MECH,1,A,Fluid Mechanics,2026-02-20,4,Absent
+STU0099,Sneha Balan,MECH,1,A,Thermodynamics,2026-05-09,1,Present
+STU0099,Sneha Balan,MECH,1,A,Fluid Mechanics,2026-02-28,1,Present
+STU0099,Sneha Balan,MECH,1,A,Fluid Mechanics,2026-04-05,7,Present
+STU0099,Sneha Balan,MECH,1,A,Machine Design,2026-03-12,1,Unknown
+STU0099,Sneha Balan,MECH,1,A,Machine Design,2026-04-02,2,Present
+STU0099,Sneha Balan,MECH,1,A,Fluid Mechanics,2026-03-17,4,Absent
+STU0099,Sneha Balan,MECH,1,A,Machine Design,2026-06-06,3,On Duty
+STU0100,Vikram Balan,MECH,3,B,Thermodynamics,2026-03-16,4,Present
+STU0100,Vikram Balan,MECH,3,B,Machine Design,2026-05-27,5,Present
+STU0100,Vikram Balan,MECH,3,B,Thermodynamics,2026-01-07,1,Present
+STU0100,Vikram Balan,MECH,3,B,Thermodynamics,2026-05-17,6,Present
+STU0100,Vikram Balan,MECH,3,B,Fluid Mechanics,2026-02-22,6,Present
+STU0100,Vikram Balan,MECH,3,B,Machine Design,2026-01-26,2,Late
+STU0100,Vikram Balan,MECH,3,B,Fluid Mechanics,2026-03-07,5,Present
+STU0100,Vikram Balan,MECH,3,B,Machine Design,2026-04-19,-1,Present
+STU0100,Vikram Balan,MECH,3,B,Thermodynamics,2026-05-10,4,Late
+STU0100,Vikram Balan,MECH,3,B,Thermodynamics,2026-05-27,4,Present
+STU0100,Vikram Balan,MECH,3,B,Unknown,2026-03-07,5,Present
+STU0100,Vikram Balan,MECH,3,B,Fluid Mechanics,2026-06-30,6,Present
+STU0101,Sneha Rao,ECE,3,A,VLSI Design,2026-05-06,3,Present
+STU0101,Sneha Rao,ECE,3,A,Digital Electronics,2026-06-19,7,Present
+STU0101,Sneha Rao,ECE,3,A,Signals & Systems,2026-05-10,4,Absent
+STU0101,Sneha Rao,ECE,3,A,Digital Electronics,2026-04-29,8,Absent
+STU0101,Sneha Rao,ECE,3,A,Signals & Systems,2026-01-09,5,Absent
+STU0101,Sneha Rao,ECE,3,A,Signals & Systems,2026-01-28,1,Absent
+STU0101,Sneha Rao,ECE,3,A,Digital Electronics,2026-03-21,6,Present
+STU0101,Sneha Rao,ECE,3,A,VLSI Design,2026-03-02,4,Present
+STU0101,Sneha Rao,ECE,3,A,VLSI Design,2026-04-18,1,Absent
+STU0101,Sneha Rao,ECE,3,A,Digital Electronics,2026-03-08,8,Present
+STU0102,Swathi Krishnan,ECE,1,A,Signals & Systems,2026-03-24,4,On Duty
+STU0102,Swathi Krishnan,ECE,1,A,VLSI Design,2026-06-23,4,Present
+STU0102,Swathi Krishnan,ECE,1,A,Digital Electronics,2026-06-02,8,Present
+STU0102,Swathi Krishnan,ECE,1,A,Signals & Systems,2026-04-09,5,Present
+STU0102,Swathi Krishnan,ECE,1,A,VLSI Design,2026-05-06,3,Absent
+STU0102,Swathi Krishnan,ECE,1,A,Digital Electronics,2026-05-26,6,Present
+STU0102,Swathi Krishnan,ECE,1,A,Digital Electronics,2026-05-20,7,Absent
+STU0102,Swathi Krishnan,ECE,1,A,VLSI Design,2026-04-03,1,Absent
+STU0103,Kavya Reddy,IT,1,B,Software Engineering,2026-04-23,8,Present
+STU0103,Kavya Reddy,IT,1,B,Software Engineering,2026-05-25,8,On Duty
+STU0103,Kavya Reddy,IT,1,B,Software Engineering,2026-03-30,5,Absent
+STU0103,Kavya Reddy,IT,1,B,Software Engineering,2026-04-05,6,Present
+STU0103,Kavya Reddy,IT,1,B,Software Engineering,2026-05-01,6,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Surveying,2026-03-15,1,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Surveying,2026-03-24,1,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Geotechnical Engg,2026-03-10,2,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Geotechnical Engg,2026-03-05,6,Absent
+STU0104,Ramya Reddy,CIVIL,4,A,Geotechnical Engg,2026-02-04,4,On Duty
+STU0104,Ramya Reddy,CIVIL,4,A,Surveying,2026-02-23,7,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Structural Analysis,2026-03-26,1,Absent
+STU0104,Ramya Reddy,CIVIL,4,A,Geotechnical Engg,2026-02-04,4,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Surveying,2026-05-22,1,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Structural Analysis,2026-06-30,4,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Geotechnical Engg,2026-02-21,3,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Surveying,2026-02-23,6,Present
+STU0104,Ramya Reddy,CIVIL,4,A,Geotechnical Engg,2026-03-01,6,Present
+STU0105,Karthik Sundaram,CSE,4,C,DBMS,2026-05-08,-1,Present
+STU0105,Karthik Sundaram,CSE,4,C,Operating Systems,2026-03-16,2,Present
+STU0105,Karthik Sundaram,CSE,4,C,DBMS,2026-06-04,5,Present
+STU0105,Karthik Sundaram,CSE,4,C,Data Structures,2026-05-19,-1,Present
+STU0105,Karthik Sundaram,CSE,4,C,Data Structures,2026-06-06,1,Present
+STU0105,Karthik Sundaram,CSE,4,C,Operating Systems,2026-03-18,4,Present
+STU0105,Karthik Sundaram,CSE,4,C,Operating Systems,2026-01-30,6,Late
+STU0105,Karthik Sundaram,CSE,4,C,Computer Networks,2026-02-23,2,Present
+STU0105,Karthik Sundaram,CSE,4,C,Data Structures,2026-03-21,6,Present
+STU0105,Karthik Sundaram,CSE,4,C,DBMS,2026-03-04,8,Present
+STU0105,Karthik Sundaram,CSE,4,C,Computer Networks,2026-04-07,8,Late
+STU0105,Karthik Sundaram,CSE,4,C,Computer Networks,2026-02-19,7,Absent
+STU0105,Karthik Sundaram,CSE,4,C,Operating Systems,2026-03-23,4,Late
+STU0106,Deepa Raj,CSE,4,A,Operating Systems,2026-01-08,5,Unknown
+STU0106,Deepa Raj,CSE,4,A,Data Structures,2026-05-21,3,Present
+STU0106,Deepa Raj,CSE,4,A,Computer Networks,2026-02-06,7,Present
+STU0106,Deepa Raj,CSE,4,A,Operating Systems,2026-03-16,7,Present
+STU0107,Karthik Venkatesan,MECH,4,C,Machine Design,2026-01-16,1,Present
+STU0107,Karthik Venkatesan,MECH,4,C,Machine Design,2026-01-18,8,Present
+STU0107,Karthik Venkatesan,MECH,4,C,Machine Design,2026-05-26,6,Present
+STU0107,Karthik Venkatesan,MECH,4,C,Machine Design,2026-03-20,5,Present
+STU0107,Karthik Venkatesan,MECH,4,C,Machine Design,2026-02-06,4,Present
+STU0108,Shalini Murugan,ECE,4,C,Signals & Systems,2026-06-17,8,Absent
+STU0108,Shalini Murugan,ECE,4,C,Signals & Systems,2026-05-10,5,Present
+STU0108,Shalini Murugan,ECE,4,C,Digital Electronics,2026-01-31,3,Absent
+STU0108,Shalini Murugan,ECE,4,C,VLSI Design,2026-01-08,5,Present
+STU0108,Shalini Murugan,ECE,4,C,VLSI Design,2026-05-31,2,Present
+STU0108,Shalini Murugan,ECE,4,C,VLSI Design,2026-03-18,3,Present
+STU0108,Shalini Murugan,ECE,4,C,VLSI Design,2026-05-05,8,Absent
+STU0108,Shalini Murugan,ECE,4,C,VLSI Design,2026-05-07,8,Present
+STU0109,Sanjay Balan,EEE,1,A,Electrical Machines,2026-04-27,3,Present
+STU0109,Sanjay Balan,EEE,1,A,Control Systems,2026-04-02,-1,Absent
+STU0109,Sanjay Balan,EEE,1,A,Power Systems,2026-02-21,6,Present
+STU0109,Sanjay Balan,EEE,1,A,Electrical Machines,2026-01-18,3,Present
+STU0109,Sanjay Balan,EEE,1,A,Power Systems,2026-03-10,3,Absent
+STU0109,Sanjay Balan,EEE,1,A,Control Systems,2026-05-07,6,Present
+STU0109,Sanjay Balan,EEE,1,A,Control Systems,2026-02-03,6,Unknown
+STU0109,Sanjay Balan,EEE,1,A,Electrical Machines,2026-01-21,5,Absent
+STU0110,Meena Sekar,EEE,4,B,Control Systems,2026-04-17,2,Absent
+STU0110,Meena Sekar,EEE,4,B,Control Systems,2026-05-10,6,Present
+STU0110,Meena Sekar,EEE,4,B,Control Systems,2026-01-23,2,Present
+STU0110,Meena Sekar,EEE,4,B,Power Systems,2026-06-01,2,Present
+STU0110,Meena Sekar,EEE,4,B,Power Systems,2026-06-15,4,Absent
+STU0110,Meena Sekar,EEE,4,B,Control Systems,2026-06-29,7,Present
+STU0110,Meena Sekar,EEE,4,B,Electrical Machines,2026-01-18,3,Absent
+STU0110,Meena Sekar,EEE,4,B,Electrical Machines,2026-02-12,5,Absent
+STU0111,Swathi Pillai,ECE,1,B,Digital Electronics,2026-02-12,1,Present
+STU0111,Swathi Pillai,ECE,1,B,Signals & Systems,2026-05-29,4,Present
+STU0111,Swathi Pillai,ECE,1,B,Signals & Systems,2026-03-23,1,Present
+STU0111,Swathi Pillai,ECE,1,B,Digital Electronics,2026-01-26,8,Present
+STU0111,Swathi Pillai,ECE,1,B,Digital Electronics,2026-03-09,3,Absent
+STU0111,Swathi Pillai,ECE,1,B,VLSI Design,2026-02-04,4,Present
+STU0111,Swathi Pillai,ECE,1,B,Digital Electronics,2026-05-27,3,Present
+STU0111,Swathi Pillai,ECE,1,B,VLSI Design,2026-04-21,-1,Absent
+STU0111,Swathi Pillai,ECE,1,B,VLSI Design,2026-06-09,4,Present
+STU0111,Swathi Pillai,ECE,1,B,VLSI Design,2026-06-06,6,On Duty
+STU0111,Swathi Pillai,ECE,1,B,Signals & Systems,2026-06-12,4,Present
+STU0111,Swathi Pillai,ECE,1,B,VLSI Design,2026-03-03,3,Present
+STU0111,Swathi Pillai,ECE,1,B,Signals & Systems,2026-05-18,3,Present
+STU0112,Karthik Venkatesan,CIVIL,3,C,Structural Analysis,2026-04-12,4,Present
+STU0112,Karthik Venkatesan,CIVIL,3,C,Surveying,2026-04-30,7,Present
+STU0112,Karthik Venkatesan,CIVIL,3,C,Structural Analysis,2026-04-28,3,Present
+STU0112,Karthik Venkatesan,CIVIL,3,C,Structural Analysis,2026-03-22,7,On Duty
+STU0112,Karthik Venkatesan,CIVIL,3,C,Structural Analysis,2026-06-04,2,Present
+STU0112,Karthik Venkatesan,CIVIL,3,C,Surveying,2026-04-24,8,Absent
+STU0112,Karthik Venkatesan,CIVIL,3,C,Structural Analysis,2026-03-24,1,Present
+STU0113,Vikram Iyer,IT,2,C,Software Engineering,2026-05-30,-1,Absent
+STU0113,Vikram Iyer,IT,2,C,Cloud Computing,2026-06-12,1,Late
+STU0113,Vikram Iyer,IT,2,C,Software Engineering,2026-01-20,4,Present
+STU0113,Vikram Iyer,IT,2,C,Software Engineering,2026-06-10,4,Late
+STU0113,Vikram Iyer,IT,2,C,Cloud Computing,2026-01-30,1,Present
+STU0114,Ganesh Nair,CSE,4,C,Data Structures,2026-02-27,4,Unknown
+STU0114,Ganesh Nair,CSE,4,C,Computer Networks,2026-06-14,4,Present
+STU0114,Ganesh Nair,CSE,4,C,Computer Networks,2026-02-28,1,Present
+STU0114,Ganesh Nair,CSE,4,C,Operating Systems,2026-03-13,3,Absent
+STU0114,Ganesh Nair,CSE,4,C,DBMS,2026-06-23,6,Present
+STU0114,Ganesh Nair,CSE,4,C,DBMS,2026-01-25,5,Present
+STU0114,Ganesh Nair,CSE,4,C,Data Structures,2026-02-14,-1,Present
+STU0114,Ganesh Nair,CSE,4,C,Operating Systems,2026-03-07,7,Absent
+STU0114,Ganesh Nair,CSE,4,C,Computer Networks,2026-02-18,6,Absent
+STU0114,Ganesh Nair,CSE,4,C,Data Structures,2026-05-26,4,Absent
+STU0114,Ganesh Nair,CSE,4,C,Data Structures,2026-01-24,5,Present
+STU0114,Ganesh Nair,CSE,4,C,Operating Systems,2026-02-14,3,Absent
+STU0114,Ganesh Nair,CSE,4,C,DBMS,2026-01-05,1,Present
+STU0114,Ganesh Nair,CSE,4,C,Data Structures,2026-04-19,-1,Present
+STU0115,Meena Murugan,CIVIL,2,C,Structural Analysis,2026-04-30,1,Present
+STU0115,Meena Murugan,CIVIL,2,C,Surveying,2026-06-30,4,Absent
+STU0115,Meena Murugan,CIVIL,2,C,Surveying,2026-06-06,6,Late
+STU0115,Meena Murugan,CIVIL,2,C,Surveying,2026-05-05,6,Present
+STU0115,Meena Murugan,CIVIL,2,C,Geotechnical Engg,2026-03-20,6,Present
+STU0115,Meena Murugan,CIVIL,2,C,Structural Analysis,2026-01-13,6,Present
+STU0116,Ganesh Venkatesan,MECH,3,C,Machine Design,2026-03-05,3,Late
+STU0116,Ganesh Venkatesan,MECH,3,C,Machine Design,2026-03-19,2,Late
+STU0116,Ganesh Venkatesan,MECH,3,C,Thermodynamics,2026-03-18,8,Unknown
+STU0116,Ganesh Venkatesan,MECH,3,C,Thermodynamics,2026-05-01,6,Present
+STU0116,Ganesh Venkatesan,MECH,3,C,Machine Design,2026-01-23,4,Present
+STU0117,Divya Sekar,MECH,1,A,Fluid Mechanics,2026-06-29,8,Present
+STU0117,Divya Sekar,MECH,1,A,Machine Design,2026-03-05,7,Absent
+STU0117,Divya Sekar,MECH,1,A,Machine Design,2026-03-13,4,Unknown
+STU0117,Divya Sekar,MECH,1,A,Fluid Mechanics,2026-06-14,3,Present
+STU0117,Divya Sekar,MECH,1,A,Fluid Mechanics,2026-06-04,2,Present
+STU0117,Divya Sekar,MECH,1,A,Machine Design,2026-06-23,2,Present
+STU0117,Divya Sekar,MECH,1,A,Fluid Mechanics,2026-02-24,6,Present
+STU0117,Divya Sekar,MECH,1,A,Fluid Mechanics,2026-04-23,-1,Unknown
+STU0117,Divya Sekar,MECH,1,A,Fluid Mechanics,2026-02-03,1,Present
+STU0117,Divya Sekar,MECH,1,A,Fluid Mechanics,2026-05-24,3,Present
+STU0117,Divya Sekar,MECH,1,A,Machine Design,2026-03-03,8,Present
+STU0118,Kavya Rao,CIVIL,1,C,Geotechnical Engg,2026-06-19,6,Present
+STU0118,Kavya Rao,CIVIL,1,C,Structural Analysis,2026-02-12,1,Present
+STU0118,Kavya Rao,CIVIL,1,C,Surveying,2026-03-14,2,Present
+STU0118,Kavya Rao,CIVIL,1,C,Geotechnical Engg,2026-02-10,6,Unknown
+STU0118,Kavya Rao,CIVIL,1,C,Geotechnical Engg,2026-01-23,3,Absent
+STU0118,Kavya Rao,CIVIL,1,C,Geotechnical Engg,2026-01-20,4,Absent
+STU0118,Kavya Rao,CIVIL,1,C,Geotechnical Engg,2026-02-16,5,Late
+STU0118,Kavya Rao,CIVIL,1,C,Unknown,2026-03-24,6,Late
+STU0118,Kavya Rao,CIVIL,1,C,Structural Analysis,2026-06-06,4,Late
+STU0118,Kavya Rao,CIVIL,1,C,Geotechnical Engg,2026-05-30,1,Present
+STU0118,Kavya Rao,CIVIL,1,C,Surveying,2026-03-19,8,Present
+STU0119,Anu Rao,EEE,4,C,Electrical Machines,2026-04-27,1,Present
+STU0119,Anu Rao,EEE,4,C,Electrical Machines,2026-02-05,1,Present
+STU0119,Anu Rao,EEE,4,C,Electrical Machines,2026-05-04,3,Unknown
+STU0119,Anu Rao,EEE,4,C,Control Systems,2026-06-30,5,Absent
+STU0120,Karthik Venkatesan,IT,3,B,Cloud Computing,2026-03-23,6,Present
+STU0120,Karthik Venkatesan,IT,3,B,Cloud Computing,2026-04-18,6,Unknown
+STU0120,Karthik Venkatesan,IT,3,B,Cloud Computing,2026-03-15,2,Absent
+STU0120,Karthik Venkatesan,IT,3,B,Cloud Computing,2026-05-13,4,Present
+STU0120,Karthik Venkatesan,IT,3,B,Web Technology,2026-05-23,4,Present
+STU0120,Karthik Venkatesan,IT,3,B,Web Technology,2026-05-11,4,Present
+STU0120,Karthik Venkatesan,IT,3,B,Web Technology,2026-04-27,4,Present
+STU0120,Karthik Venkatesan,IT,3,B,Cloud Computing,2026-01-25,4,Present
+STU0120,Karthik Venkatesan,IT,3,B,Unknown,2026-06-07,6,Unknown
+STU0120,Karthik Venkatesan,IT,3,B,Cloud Computing,2026-01-15,6,Present
