@@ -11,7 +11,7 @@ def h_ledger(rows):
 
 def h_risk_bars(counts, total, risk_colors):
     parts = []
-    for lvl in ["High", "Medium", "Low"]:
+    for lvl in ["High", "Moderate", "Low"]:
         c   = counts.get(lvl, 0)
         pct = (c / total * 100) if total else 0
         col = risk_colors.get(lvl, "#000")
