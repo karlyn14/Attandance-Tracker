@@ -30,7 +30,7 @@ BRASS_SOFT = "#D8C48F"
 HIGH       = "#B23A48"
 MED        = "#C98A2D"
 LOW        = "#4C7A5E"
-RISK_COLOR = {"High": HIGH, "Medium": MED, "Low": LOW}
+RISK_COLOR = {"High": HIGH, "Moderate": MED, "Low": LOW}
 
 # ── CSS via st.html() — immune to Markdown parsing ────────────────────────
 st.html("""
