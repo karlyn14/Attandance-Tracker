@@ -41,9 +41,9 @@ def get_attendance_summary(
         }
 
     overall_pct = calculate_overall(student_id, df)
-    subject_wise = calculate_subject_wise(student_id, student_df)
-    weekly_trend = calculate_weekly(student_id, student_df)
-    monthly_trend = calculate_monthly(student_id, student_df)
+    subject_wise = calculate_subject_wise(student_id, student_df).to_dict(orient="records")
+    weekly_trend = calculate_weekly(student_id, student_df).to_dict(orient="records")
+    monthly_trend = calculate_monthly(student_id, student_df).to_dict(orient="records")
 
     records = student_df[['subject', 'date', 'period', 'status']].to_dict(orient='records')
 
