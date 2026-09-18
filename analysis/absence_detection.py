@@ -241,7 +241,36 @@ def build_student_summary(results: dict) -> pd.DataFrame:
     summary["at_risk"] = summary["risk_flags_count"] > 0
 
     return summary.sort_values("risk_flags_count", ascending=False).reset_index(drop=True)
+def detect_absence_patterns(student_id: str, df: pd.DataFrame) -> dict:
+    """
+    Wrapper for the backend/dashboard: runs the relevant checks above for
+    a single student and returns a flat summary dict.
+    """
+    student_df = df[df["student_id"] == student_id].copy()
+    if student_df.empty:
+        return {"max_consecutive_absences": 0, "weak_subjects": [], "frequent_day_absent": None}
 
+    student_df = student_df.sort_values("date")
+    max_consec = _max_consecutive_absences(student_df["status"].tolist())
+
+    subj_df = flag_subject_absenteeism(student_df)
+    weak_subjects = (
+        subj_df.loc[subj_df["flag_subject_absenteeism"], "subject"].tolist()
+        if not subj_df.empty else []
+    )
+
+    day_df = flag_daywise_absenteeism(student_df)
+    frequent_day = None
+    if not day_df.empty:
+        flagged = day_df[day_df["flag_daywise_absenteeism"]]
+        if not flagged.empty:
+            frequent_day = flagged.sort_values("day_absences", ascending=False).iloc[0]["day_name"]
+
+    return {
+        "max_consecutive_absences": int(max_consec),
+        "weak_subjects": weak_subjects,
+        "frequent_day_absent": frequent_day,
+    }
 # --------------------------------------------------------------------------
 # Dummy student test 
 # --------------------------------------------------------------------------
