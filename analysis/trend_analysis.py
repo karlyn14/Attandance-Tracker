@@ -96,6 +96,23 @@ def analyze_student_trends(
         records.append({student_col: student_id, **result})
     return pd.DataFrame(records)
 
+def analyze_trend(student_id: str, df) -> dict:
+    """
+    Wrapper for the backend/dashboard: computes weekly attendance for one
+    student directly from the raw/cleaned dataframe and returns a flat
+    dict with a 'trend_label' key.
+    """
+    student_df = df[df["student_id"] == student_id].copy()
+    if student_df.empty:
+        return {"trend_label": "insufficient_data", "slope": None, "max_delta": None}
+
+    student_df["is_present"] = student_df["status"].astype(str).str.strip().str.lower().eq("present")
+    weekly = compute_weekly_attendance(
+        student_df, student_col="student_id", date_col="date", status_col="is_present"
+    )
+    result = classify_trend(weekly["attendance_pct"].tolist())
+    return {"trend_label": result["label"], "slope": result["slope"], "max_delta": result["max_delta"]}
+
 
 # ----------------------------------------------------------------------
 # Day 1 Verification & Dummy Tests
